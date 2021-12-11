@@ -110,6 +110,8 @@ a {
   color: DarkSalmon;
   font-family: "Times New Roman", Times, serif;
   text-align: center;
+  font-size:14px;
+     height:50px;
   //border: 2px solid powderblue;
   //background: Beige;
   //background-image: linear-gradient(120deg, $header-bg-color-secondary, $header-bg-color);
@@ -118,7 +120,6 @@ a {
   background-image: 
     linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.5)), 
     url('https://gdb.voanews.com/b32f05b6-d788-4647-ba10-ac0fc9135fb6_w1200_r1.jpg');
-  background-size: 300px 100px;
 }
   @include large {
     padding: 5rem 6rem;
