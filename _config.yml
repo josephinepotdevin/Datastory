@@ -7,4 +7,5 @@ url: "https://josephinepotdevin.github.io" # the base hostname & protocol for yo
 github_username:  josephinepotdevin
 
 # Build settings
+markdown: kramdown
 theme: jekyll-theme-cayman
