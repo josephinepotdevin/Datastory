@@ -1,5 +1,5 @@
 ---
-layout: ada
+layout: default
 ---
 
 # MeToo Movement analysis on women's 
