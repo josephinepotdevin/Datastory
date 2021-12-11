@@ -109,11 +109,15 @@ a {
   color: SandyBrown;
   font-family: "Times New Roman", Times, serif;
   text-align: center;
-  background-image: 
-    linear-gradient(black, black),
+  //background-image: 
+    //linear-gradient(black, black),
+    //url('https://gdb.voanews.com/b32f05b6-d788-4647-ba10-ac0fc9135fb6_w1200_r1.jpg');
+  //background-size: cover;
+  //background-blend-mode: saturation;
+  background-image:
+    linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.5)), 
     url('https://gdb.voanews.com/b32f05b6-d788-4647-ba10-ac0fc9135fb6_w1200_r1.jpg');
-  background-size: cover;
-  background-blend-mode: saturation;
+    
   @include large {
     padding: 5rem 6rem;
   }
