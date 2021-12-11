@@ -108,8 +108,9 @@ a {
 .page-header {
   color: DarkSalmon;
   text-align: center;
-  linear-gradient(black, black),
-  background-image: url('https://gdb.voanews.com/b32f05b6-d788-4647-ba10-ac0fc9135fb6_w1200_r1.jpg');
+  background-image: 
+    linear-gradient(black, black),
+    url('https://gdb.voanews.com/b32f05b6-d788-4647-ba10-ac0fc9135fb6_w1200_r1.jpg');
   
 
   @include large {
