@@ -2,8 +2,6 @@
 layout: default
 ---
 
-# MeToo Movement analysis on women's 
-
 ## The Beginning of the MeToo movement
 
 You can use the [editor on GitHub](https://github.com/josephinepotdevin/datastory/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
