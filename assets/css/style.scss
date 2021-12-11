@@ -1,0 +1,17 @@
+---
+---
+
+@import 'jekyll-theme-cayman';
+
+  .btn {
+    color: Blue;
+    border-color: Pink; 
+    background-color: Black;
+  } 
+
+  .btn:hover {
+    color: Yellow;
+    text-decoration: none;
+    background-color: Magenta;
+    border-color: Cyan;
+  }
