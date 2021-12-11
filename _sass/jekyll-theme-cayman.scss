@@ -109,8 +109,8 @@ a {
   color: DarkSalmon;
   text-align: center;
   background-image: url('https://gdb.voanews.com/b32f05b6-d788-4647-ba10-ac0fc9135fb6_w1200_r1.jpg');
-  filter: grayscale(100%);
-}
+  
+
   @include large {
     padding: 5rem 6rem;
   }
@@ -122,6 +122,7 @@ a {
   @include small {
     padding: 2rem 1rem;
   }
+}
 
 .project-name {
   margin-top: 0;
