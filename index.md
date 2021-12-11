@@ -1,4 +1,8 @@
-# MeToo Movement analysis on women's voices
+---
+layout: ada
+---
+
+# MeToo Movement analysis on women's 
 
 ## The Beginning of the MeToo movement
 
