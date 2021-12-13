@@ -30,7 +30,7 @@ layout: default
 <br>
 <div style="text-align: justify">Moreover, and most importantly, by inviting thousands of women to come out of the shadows, to protest against such violence, to make themselves heard and to demand justice, these survivors have given the movement an even more important dimension in the fight for gender equality. Indeed, they have empowered the voices of women all around the world.  </div>
 <br> 
-<div style="text-align: justify"><span style="color:Red"><strong>It is hoped to find in this analysis, that this empowerment will reverberate through to the media, where women's voices will be better heard, represented, diversified and accepted.</strong></span>  </div>
+<div style="text-align: justify"><span style="color:Red"><strong>It is hoped to find in this analysis, that this empowerment will reverberate through to the journals, where women's voices will be better heard, represented, diversified and accepted.</strong></span>  </div>
 
 
 # <a name="quotebank"></a> **The Quotebank Dataset**: A goldmine of information on the role of women in the media
