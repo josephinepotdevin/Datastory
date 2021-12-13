@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# <a name="abstract"></a> Abstract: a few data on women misrepresentation in the media
+# <a name="abstract"></a> ABSTRACT: a few data on women misrepresentation in the media in 2015
 
 In 2015, the Global Media Monitoring Project (GMMP) conducted the largest [study](https://www.media-diversity.org/additional-files/Who_Makes_the_News_-_Global_Media_Monitoring_Project.pdf) of women's image, participation and representation in the news media over 20 years and 114 countries, and found that less than a quarter of news sources are women. To give an overview on the matter of the significance of women representation in the media before 2017, here are some data from this study:
 
