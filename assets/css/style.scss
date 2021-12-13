@@ -15,3 +15,14 @@
     background-color: MediumSlateBlue;
     border-color: Cyan;
   }
+img,
+p {
+  display: inline-block;
+}
+img {
+  float: left;
+  height: 300px;
+}
+p {
+  margin-left: 1rem;
+}
