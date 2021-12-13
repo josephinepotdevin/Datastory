@@ -5,7 +5,7 @@ layout: default
 <a name="study" href="https://www.media-diversity.org/additional-files/Who_Makes_the_News_-_Global_Media_Monitoring_Project.pdf">
 <a name="qtdata" href="https://dlab.epfl.ch/people/west/pub/Vaucher-Spitz-Catasta-West_WSDM-21.pdf">
 
-# <a name="abstract"></a> **Abstract**: a few data on women misrepresentation in the media 
+# <a name="abstract"></a> **Abstract**: a few data on women mis-representation in the media 
 
 <div style="text-align: justify"> In <strong>2015</strong>, the Global Media Monitoring Project (GMMP) conducted the largest [study](#study) of women's image, participation and representation in the news media over 20 years and 114 countries. To give an overview on the matter of the significance of women's misrepresentation in the media before 2017, here are some data from this study: </div>
 <br>
