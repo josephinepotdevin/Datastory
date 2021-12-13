@@ -8,7 +8,7 @@ layout: default
 # <a name="abstract"></a> **Abstract**: a few data on women misrepresentation in the media 
 
 <div style="text-align: justify"> In <strong>2015</strong>**, the Global Media Monitoring Project (GMMP) conducted the largest [study](#study) of women's image, participation and representation in the news media over 20 years and 114 countries. To give an overview on the matter of the significance of women's misrepresentation in the media before 2017, here are some data from this study: </div>
-
+<br>
 - Women made up **24%** of the people in newspaper, television, and radio news
 - Women made up **20%** of expert featured in TV news
 - Women made up **37%** of journalists telling stories around the world
