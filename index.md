@@ -20,7 +20,6 @@ This image of a gendered society reported by the every media can reinforce and p
 1. [Abstract](#abstract)
 2. [Context](#context)
 3. [The Quotebank dataset](#quotebank)
-4. [Methods](#methods)
 
 
 # <a name="context"></a> **Context**: the #MeToo movement 
