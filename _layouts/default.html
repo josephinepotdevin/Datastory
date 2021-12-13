@@ -19,11 +19,11 @@
   <body>
     <a id="skip-to-content" href="#content">Skip to the content.</a>
 
-    <header class="page-header" role="banner" style="background-image: url('back.jpg');background-repeat: no-repeat;width: 100%;height:100%;background-position: center center;">
+    <header class="page-header" role="banner">
       <h1 style="font-size:4.25rem;" class="project-name">{{ site.title | default: site.github.repository_name }}</h1>
       <h2 style="font-size:2.00rem;" class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
       {% if site.github.is_project_page %}
-        <a href="https://github.com/epfl-ada/ada-2021-project-flagada"><img style="width: 2em" url="https://raw.githubusercontent.com/Cyrilvallez/ADA/gh-pages/git.png"></a>
+        <a href="https://github.com/epfl-ada/ada-2021-project-flagada"><img style="width: 2em" src=url('https://raw.githubusercontent.com/Cyrilvallez/ADA/gh-pages/git.png')></a>
       {% endif %}
       {% if site.show_downloads %}
         <a href="{{ site.github.zip_url }}" class="btn">Download .zip</a>
