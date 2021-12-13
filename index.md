@@ -38,6 +38,8 @@ layout: default
 
 # <a name="obsstudy"></a> **Matched Observational Study**: The ideal setting to a causal analysis
 
-<div style="text-align: justify"> Let's recall the problematic around the analysis: 
+<div style="text-align: justify"> Let's recall the problematic around the analysis: </div>
+ 
  <br>
- <center><span style="color:Red"><font size="5.2"><i>did the MeToo movement affect the representation of women in the Newspaper</i></font></span></center></div>
+ 
+ <center><span style="color:Red"><font size="5.2"><i>did the MeToo movement affect the representation of women in the Newspaper</i></font></span></center>
