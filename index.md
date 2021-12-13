@@ -13,8 +13,7 @@ layout: default
 - Women made up **20%** of expert featured in TV news
 - Women made up **37%** of journalists telling stories around the world
 - Women were the subject of political and governmental coverage **16%** of the time
-
-
+ <br>
  <div style="text-align: justify">This image of a gendered society reported by the every media can reinforce and perpetuate harmful gender stereotypes. Clearly, all media outlets need to change the way they reflect the world. Maybe the MeToo movement had a positive impact on this challenge ?... </div>
 
 
