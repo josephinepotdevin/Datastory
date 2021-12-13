@@ -7,7 +7,7 @@ layout: default
 
 # <a name="abstract"></a> **Abstract**: a few data on women misrepresentation in the media 
 
-<div style="text-align: justify"> In **2015**, the Global Media Monitoring Project (GMMP) conducted the largest [study](#study) of women's image, participation and representation in the news media over 20 years and 114 countries. To give an overview on the matter of the significance of women's misrepresentation in the media before 2017, here are some data from this study: </div>
+<div style="text-align: justify"> In <strong>2015</strong>**, the Global Media Monitoring Project (GMMP) conducted the largest [study](#study) of women's image, participation and representation in the news media over 20 years and 114 countries. To give an overview on the matter of the significance of women's misrepresentation in the media before 2017, here are some data from this study: </div>
 
 - Women made up **24%** of the people in newspaper, television, and radio news
 - Women made up **20%** of expert featured in TV news
@@ -35,10 +35,10 @@ layout: default
 
 <br> 
  
-<div style="text-align: justify"><span style="color:Red">**It is hoped to find in this analysis, that this empowerment will reverberate through to the media, where women's voices will be better heard, represented, diversified and accepted**.</span>  </div>
+<div style="text-align: justify"><span style="color:Red"><strong>It is hoped to find in this analysis, that this empowerment will reverberate through to the media, where women's voices will be better heard, represented, diversified and accepted**.</strong></span>  </div>
 
 
 # <a name="quotebank"></a> **The Quotebank Dataset**: A goldmine of information on the role of women in the media
 
-<div style="text-align: justify"> 178 million quotations along with its speakers extracted from hundreds of english articles from 2015 to 2020 together in one open corpus; That's the [**QuoteBank Dataset**](#qtdata). A goldmine of information on the subjects, personnalities, ethnicities, genders, careers etcetera represented in the newspaper and displayed to a target audience in the last five years. </div>
+<div style="text-align: justify"> 178 million quotations along with its speakers extracted from hundreds of english articles from 2015 to 2020 together in one open corpus; That's the [QuoteBank Dataset](#qtdata). A goldmine of information on the subjects, personnalities, ethnicities, genders, careers etcetera represented in the newspaper and displayed to a target audience in the last five years. </div>
 
