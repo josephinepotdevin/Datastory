@@ -40,4 +40,4 @@ layout: default
 
 <div style="text-align: justify"> Let's recall the problematic of the analysis: 
  <br>
- <span style="color:Red"><font size="7"><i>_did the MeToo movement affect the representation of women in the Newspaper_</i></font></span></div>
+ <span style="color:Red"><font size="4"><i>did the MeToo movement affect the representation of women in the Newspaper</i></font></span></div>
