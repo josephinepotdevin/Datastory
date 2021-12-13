@@ -4,7 +4,7 @@ layout: default
 
 # <a name="abstract"></a> **Abstract**: a few data on women misrepresentation in the media 
 
-In **2015**, the Global Media Monitoring Project (GMMP) conducted the largest [study](https://www.media-diversity.org/additional-files/Who_Makes_the_News_-_Global_Media_Monitoring_Project.pdf) <div style="text-align: justify"> of women's image, participation and representation in the news media over 20 years and 114 countries. To give an overview on the matter of the significance of women's misrepresentation in the media before 2017, here are some data from this study:
+In **2015**, the Global Media Monitoring Project (GMMP) conducted the largest [study](https://www.media-diversity.org/additional-files/Who_Makes_the_News_-_Global_Media_Monitoring_Project.pdf) <div style="text-align: justify"> of women's image, participation and representation in the news media over 20 years and 114 countries. To give an overview on the matter of the significance of women's misrepresentation in the media before 2017, here are some data from this study: </div>
 
 - Women made up **24%** of the people in newspaper, television, and radio news
 - Women made up **20%** of expert featured in TV news
@@ -12,7 +12,7 @@ In **2015**, the Global Media Monitoring Project (GMMP) conducted the largest [s
 - Women were the subject of political and governmental coverage **16%** of the time
 
 
-This image of a gendered society reported by the every media can reinforce and perpetuate harmful gender stereotypes. Clearly, all media outlets need to change the way they reflect the world. Maybe the MeToo movement had a positive impact on this challenge ?... </div>
+ <div style="text-align: justify">This image of a gendered society reported by the every media can reinforce and perpetuate harmful gender stereotypes. Clearly, all media outlets need to change the way they reflect the world. Maybe the MeToo movement had a positive impact on this challenge ?... </div>
 
 
 
