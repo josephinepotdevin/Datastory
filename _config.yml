@@ -1,3 +1,6 @@
+# Build settings
+markdown: kramdown
+theme: jekyll-theme-cayman
 title: MeToo Movement Impact Analysis
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
@@ -5,7 +8,3 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "/datastory" # the subpath of your site, e.g. /blog
 url: "https://josephinepotdevin.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  josephinepotdevin
-
-# Build settings
-markdown: kramdown
-theme: jekyll-theme-cayman
