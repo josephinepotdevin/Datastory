@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# <a name="abstract"></a> **Abstract**: a few data on women mis-representation in the media 
+# <a name="abstract"></a> **Abstract**: A few data on women mis-representation in the media 
 
 <div style="text-align: justify"> In <strong>2015</strong>, the Global Media Monitoring Project (GMMP) conducted the largest <a href="https://www.media-diversity.org/additional-files/Who_Makes_the_News_-_Global_Media_Monitoring_Project.pdf">study</a> of women's image, participation and representation in the news media over 20 years and 114 countries. To give an overview on the matter of the significance of women's misrepresentation in the media before 2017, here are some data from this study: </div>
 <br>
@@ -23,7 +23,7 @@ layout: default
 4. [The Observational Study](#obsstudy)
 
 
-# <a name="context"></a> **Context**: the #MeToo movement 
+# <a name="context"></a> **Context**: The #MeToo movement 
 
 <div style="text-align: justify"> In 2006, Tarana Burke, activist and sexual assault survivor, creates the MeToo movement in support to all women victims of crimes of sexual nature. It is only in October 2017, when more than 80 women in the film industry made sexual abuse allegations against film producer Harvey Weinstein, that the MeToo movement re-emerged. The actress Alyssa Milano is the one who reignited the movement by encouraging victims of sexual harassment and assault to come forward using the hashtag #MeToo as a status update on Twitter. With the goal of raising awareness of sexual misconduct, empowering survivors to speak out, helping them heal as a community by not feeling alone in this battle, and bringing them justice, the MeToo movement has spread around the world, showing the reality and magnitude of sexual abuse against women.  </div>
 <br>
@@ -43,3 +43,14 @@ layout: default
  <br>
  
  <center><span style="color:Red"><font size="5.2"><i>Did the MeToo movement affect the representation of women in the newspapers?</i></font></span></center>
+ 
+Since the quotebank dataset is a found dataset, and not a created experiment, it is appropriate to call its analysis an observational study. With the reduced dataset containing only speakers with enough known characteristics, the following two analysis are conducted. The first is only a **description of the dataset**. The second is a **matched observational study**. This means that the dataset is reduced and cut in two in a way that for every speaker quoted before #MeToo thus belonging to the before #MeToo dataset (i.e., before October 2017), a very similar speaker (or the same one if this one is quoted after MeToo) belongs to the new dataset of after #MeToo quotes. Similarity is measured by the degree of similitude of the features obtained on the speakers (SET CHARACTER). Any pre #MeToo speaker that is not paired with a post #MeToo counterpart (and vice versa) is thus removed from the dataset. Therefore, the 'before' dataset contains speakers extremely similar the the 'after' dataset i.e. the speakers have the same characteristics. The two new datsets can be approximated to be the same in term of the speakers it contains and thus can be properly compared with no risk of confounders interfering with the causality.  Indeed, as the two datasets are identical, any change occuring between before and after the #MeToo movement can be considered to have only appeared because of the movement and not by an unrelated event.
+
+
+
+
+ 
+ 
+ 
+ 
+ 
