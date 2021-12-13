@@ -29,9 +29,7 @@ In 2006, Tarana Burke, activist and sexual assault survivor, creates the MeToo m
 
 Moreover, and most importantly, by inviting thousands of women to come out of the shadows, to protest against the violence of everyday life, to make themselves heard and to demand justice, these survivors have given the movement an even more important dimension in the fight for gender equality. Indeed, they have empowered the voice of women all around the world.  
 
-<span style="color:blue">some *blue* text</span>
-
-It is hoped to find in this analysis, that this empowerment will reverberate through to the media, where women's voices will be better heard, represented, diversified and accepted.
+<span style="color:Salmon">It is hoped to find in this analysis, that this empowerment will reverberate through to the media, where women's voices will be better heard, represented, diversified and accepted.</span>
 
 
 # <a name="quotebank"></a> **The Quotebank Dataset**: A wealth of information on the role of women in the media
