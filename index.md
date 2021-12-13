@@ -20,6 +20,7 @@ layout: default
 1. [Abstract](#abstract)
 2. [Context](#context)
 3. [The Quotebank dataset](#quotebank)
+4. [The Observational Study](#obsstudy)
 
 
 # <a name="context"></a> **Context**: the #MeToo movement 
@@ -33,5 +34,10 @@ layout: default
 
 # <a name="quotebank"></a> **The Quotebank Dataset**: A goldmine of information on the role of women in the media
 
-<div style="text-align: justify"> 178 million quotations along with its speakers extracted from hundreds of english articles from 2015 to 2020 together in one open corpus; That's the <a name="qtdata" href="https://dlab.epfl.ch/people/west/pub/Vaucher-Spitz-Catasta-West_WSDM-21.pdf">QuoteBank Dataset</a>. A goldmine of information on the subjects, personnalities, ethnicities, genders, careers etcetera represented in the newspaper and displayed to a target audience in the last five years. Off the NUMBER of quotations and NUMBER of known speakers retrieved from the dataset, the analysis was conducted on NUMBER of quotations said by NUMBER of speakers. Indeed, the dataset being too important and full of unknown speaker caracteritsics, data processing has been done retrieving only speakers with known CECI et CELA for a much more relevant and reliable (valide, accurate, meaningful, trustworthy, faithful, credible, robust)  dataset applicable to observational studies. </div>
+<div style="text-align: justify"> 178 million quotations along with its speakers extracted from hundreds of english articles from 2015 to 2020 together in one open corpus; That's the <a name="qtdata" href="https://dlab.epfl.ch/people/west/pub/Vaucher-Spitz-Catasta-West_WSDM-21.pdf">QuoteBank Dataset</a>. A goldmine of information on the subjects, personnalities, ethnicities, genders, careers etcetera represented in the newspaper and displayed to a target audience in the last five years. Off the NUMBER of quotations and NUMBER of known speakers retrieved from the dataset, the analysis was conducted on NUMBER of quotations said by NUMBER of speakers. Indeed, the dataset being too important and full of unknown speaker caracteritsics, data processing has been done retrieving only speakers with known CECI et CELA for a much more relevant and reliable (valide, accurate, meaningful, trustworthy, faithful, credible, robust)  dataset applicable to a matched observational studies. </div>
 
+# <a name="obsstudy"></a> **Matched Observational Study**: The ideal setting to a causal analysis
+
+<div style="text-align: justify"> Let's recall the problematic of the analysis: 
+ <br>
+ <span style="color:Red"><font size="7"><i>_did the MeToo movement affect the representation of women in the Newspaper_</i></font></span></div>
