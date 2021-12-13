@@ -21,17 +21,8 @@ In 2006, Tarana Burke, activist and sexual assault survivor, creates the MeToo m
 
 # <a name="objectives"></a> Objectives
 
-<div class="side-by-side">
-    <div class="toleft">
-        <img class="image" src="https://sergiokopplin.github.io/indigo/assets/images/profile.jpg" alt="Alt Text">
-        <figcaption class="caption">Photo by John Doe</figcaption>
-    </div>
-
-    <div class="toright">
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-    </div>
-</div>
-
+<img src="https://3.bp.blogspot.com/-W__wiaHUjwI/Vt3Grd8df0I/AAAAAAAAA78/7xqUNj8ujtY/s1600/image02.png">
+<p>Hello World</p>
 # <a name="quotebank"></a> The Quotebank Dataset,
 
 //a wealth of information on the role of women in the media
