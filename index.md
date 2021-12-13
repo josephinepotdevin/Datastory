@@ -42,4 +42,4 @@ layout: default
  
  <br>
  
- <center><span style="color:Red"><font size="5.2"><i>did the MeToo movement affect the representation of women in the Newspaper</i></font></span></center>
+ <center><span style="color:Red"><font size="5.2"><i>Did the MeToo movement affect the representation of women in the newspapers?</i></font></span></center>
