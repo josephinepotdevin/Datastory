@@ -32,7 +32,7 @@ Moreover, and most importantly, by inviting thousands of women to come out of th
 <span style="color:Plum">**It is hoped to find in this analysis, that this empowerment will reverberate through to the media, where women's voices will be better heard, represented, diversified and accepted**.</span>
 
 
-# <a name="quotebank"></a> **The Quotebank Dataset**: A wealth of information on the role of women in the media
+# <a name="quotebank"></a> **The Quotebank Dataset**: A goldmine of information on the role of women in the media
 
 178 million quotations along with its speakers extracted from hundreds of english articles from 2015 to 2020 together in one open corpus; That's the [**QuoteBank Dataset**](https://dlab.epfl.ch/people/west/pub/Vaucher-Spitz-Catasta-West_WSDM-21.pdf). A goldmine of information on the subjects, personnalities, ethnicities, genders, careers etcetera represented in the newspaper and displayed to a target audience in the last five years. 
 
