@@ -55,11 +55,9 @@ layout: default
 
 ![Image](D-perc-quot-genders-period.png)
 ![Image](D-occ-female.png)
+![Image](D-lexical-metoo.png)
+![Image](D-lexical-sex_harass.png)
 ![Image](D-lex-genders.png)
-![Image](D-lex-genders.png)
-![Image](D-lex-genders.png)
-![Image](D-lex-genders.png)
- 
  
  
 # <a name="obs2"></a> **Matching analysis**: the movement real impact on the newspapers
