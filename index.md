@@ -19,9 +19,8 @@ layout: default
 # **Table of Contents**
 1. [Context](#context)
 2. [The Quotebank Dataset](#quotebank)
-3. [The Observational Study](#obsstudy)
-4. [Descriptive Analysis](#descriptive)
-5. [Matching analysis](#obs2)
+3. [Descriptive Analysis](#descriptive)
+4. [The Observational Study](#obsstudy)
 
 
 # <a name="context"></a> **Context**: The #MeToo movement 
@@ -39,8 +38,14 @@ layout: default
 
 # <a name="quotebank"></a> **The Quotebank Dataset**: A goldmine of information on the role of women in the media
 
-<div style="text-align: justify"> 178 million quotations along with its speakers extracted from hundreds of english articles from 2015 to 2020 together in one open corpus; That's the <a name="qtdata" href="https://dlab.epfl.ch/people/west/pub/Vaucher-Spitz-Catasta-West_WSDM-21.pdf">QuoteBank Dataset</a>. A goldmine of information on the subjects, personnalities, ethnicities, genders, careers etcetera represented in the newspaper and displayed to a target audience in the last five years. Off the NUMBER of quotations and NUMBER of known speakers retrieved from the dataset, the analysis was conducted on NUMBER of quotations said by NUMBER of speakers. Indeed, the dataset being too important and full of unknown speaker caracteritsics, data processing has been done retrieving only speakers with known CECI et CELA for a much more relevant and reliable dataset applicable to a matched observational studies. </div>
+<div style="text-align: justify"> 178 million quotations along with its speakers extracted from hundreds of english articles from 2015 to 2020 together in one open corpus; That's the <a name="qtdata" href="https://dlab.epfl.ch/people/west/pub/Vaucher-Spitz-Catasta-West_WSDM-21.pdf">QuoteBank Dataset</a>. A goldmine of information on the subjects, personnalities, ethnicities, genders, careers etcetera represented in the newspaper and displayed to a target audience in the last five years. Off the NUMBER of quotations and NUMBER of known speakers retrieved from the dataset, the analysis was conducted on NUMBER of quotations said by NUMBER of speakers. Indeed, the dataset being too important and full of unknown speaker caracteritsics, data processing has been done retrieving only speakers with known CECI et CELA for a much more relevant and reliable dataset applicable to [matched observational studies](#obsstudy). </div>
 
+
+# <a name="description"></a> **Descriptitve analysis**: An overview of the dataset
+
+![Image](D-perc-quot-genders-period.png)
+![Image](D-occ-female.png)
+ 
 # <a name="obsstudy"></a> **Matched Observational Study**: The ideal setting to a causal analysis
 
 <div style="text-align: justify"> Let's recall the problematic around the analysis: </div>
@@ -52,15 +57,9 @@ layout: default
  <br>
  
 <div style="text-align: justify">Since the quotebank dataset is a found dataset, and not a created experiment, it is appropriate to call its analysis an observational study. With the reduced dataset containing only speakers with enough known characteristics, the following two analysis are conducted. The first is only a <strong>description of the dataset</strong>. The second is a <strong>matched observational study</strong>. This means that the dataset is reduced and cut in two in a way that for every speaker quoted before #MeToo thus belonging to the before #MeToo dataset (i.e., before October 2017), a very similar speaker (or the same one if this one is quoted after MeToo) belongs to the new dataset of after #MeToo quotes. Similarity is measured by the degree of similitude of the features obtained on the speakers (SET CHARACTER). Any pre #MeToo speaker that is not paired with a post #MeToo counterpart (and vice versa) is thus removed from the dataset. Therefore, the 'before' dataset contains speakers extremely similar the the 'after' dataset i.e. the speakers have the same characteristics. The two new datsets can be approximated to be the same in term of the speakers it contains and thus can be properly compared with no risk of confounders interfering with the causality.</div>
-
-
-# <a name="description"></a> **Descriptitve analysis**: An overview of the dataset
-
-![Image](D-perc-quot-genders-period.png)
-![Image](D-occ-female.png)
  
  
-# <a name="obs2"></a> **Matching analysis**: the movement real impact on the newspapers
+## <a name="obs2"></a> ****
 
 ![Image](O_dens_nb_occurence.png)
 ![Image](O_geom_mean_quotes.png)
@@ -69,4 +68,3 @@ layout: default
 
 {% include imagetext.html image_path="D-occ-female.png" title="Bigs Topics" description="> Subjects that people might have been chilled out to look for, together with their popularity in Wikipedia" %}  
 
-BLAALLEJFFHFE
