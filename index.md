@@ -53,6 +53,8 @@ layout: default
 
 # <a name="description"></a> **Descritpitve analysis**: An overview of the dataset
 
+
+<img src="D-perc-quot-genders-period.png" alt="Paris" class="center">
 ![Image](D-perc-quot-genders-period.png)
 ![Image](D-occ-female.png)
 ![Image](D-lexical-metoo.png)
