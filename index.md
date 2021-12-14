@@ -27,9 +27,8 @@ layout: default
 
 <div style="text-align: justify"> In 2006, Tarana Burke, activist and sexual assault survivor, creates the MeToo movement in support to all women victims of crimes of sexual nature. It is only in October 2017, when more than 80 women in the film industry made sexual abuse allegations against film producer Harvey Weinstein, that the MeToo movement re-emerged. The actress Alyssa Milano is the one who reignited the movement by encouraging victims of sexual harassment and assault to come forward using the hashtag #MeToo as a status update on Twitter. With the goal of raising awareness of sexual misconduct, empowering survivors to speak out, helping them heal as a community by not feeling alone in this battle, and bringing them justice, the MeToo movement has spread around the world, showing the reality and magnitude of sexual abuse against women.  </div>
 
-
-![Image](D-lexical-metoo.png)
-![Image](D-lexical-sex_harass.png)
+{% include imagetext.html image_path="D-lexical-metoo.png" title="Title" description="> Description" %} 
+{% include imagetext.html image_path="D-lexical-sex_harass.png" title="Title" description="> Description" %} 
 
 <div style="text-align: justify">Moreover, and most importantly, by inviting thousands of women to come out of the shadows, to protest against such violence, to make themselves heard and to demand justice, these survivors have given the movement an even more important dimension in the fight for gender equality. Indeed, they have empowered the voices of women all around the world.  </div>
 <br> 
@@ -43,9 +42,9 @@ layout: default
 
 # <a name="description"></a> **Descriptitve analysis**: An overview of the dataset
 
-![Image](D-perc-quot-genders-period.png)
-![Image](D-occ-female.png)
- 
+{% include imagetext.html image_path="D-perc-quot-genders-period.png" title="Title" description="> Description" %}  
+{% include imagetext.html image_path="D-occ-female.png" title="Title" description="> Description" %}  
+
 # <a name="obsstudy"></a> **Matched Observational Study**: The ideal setting to a causal analysis
 
 <div style="text-align: justify"> Let's recall the problematic around the analysis: </div>
@@ -61,10 +60,10 @@ layout: default
  
 ## <a name="obs2"></a> ****
 
-![Image](O_dens_nb_occurence.png)
-![Image](O_geom_mean_quotes.png)
-![Image](O_occupations.png)
+{% include imagetext.html image_path="O_dens_nb_occurence.png" title="Title" description="> Description" %}  
+{% include imagetext.html image_path="O_geom_mean_quotes.png" title="Title" description="> Description" %}  
+{% include imagetext.html image_path="O_occupations.png" title="Title" description="> Description" %}  
 
 
-{% include imagetext.html image_path="D-occ-female.png" title="Bigs Topics" description="> Subjects that people might have been chilled out to look for, together with their popularity in Wikipedia" %}  
+
 
