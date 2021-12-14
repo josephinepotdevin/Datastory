@@ -65,3 +65,6 @@ layout: default
 ![Image](O_dens_nb_occurence.png)
 ![Image](O_geom_mean_quotes.png)
 ![Image](O_occupations.png)
+
+
+{% include imagetext.html image_path="D-occ-female.png" title="Bigs Topics" description="> Subjects that people might have been chilled out to look for, together with their popularity in Wikipedia" %}  
