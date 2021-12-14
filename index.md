@@ -37,6 +37,8 @@ layout: default
 
 # <a name="quotebank"></a> **The Quotebank Dataset**: A goldmine of information on the role of women in the media
 
+METTRE UNE QUOTES.
+
 <div style="text-align: justify"> 178 million quotations along with its speakers extracted from hundreds of english articles from 2015 to 2020 together in one open corpus; That's the <a name="qtdata" href="https://dlab.epfl.ch/people/west/pub/Vaucher-Spitz-Catasta-West_WSDM-21.pdf">QuoteBank Dataset</a>. A goldmine of information on the subjects, personnalities, ethnicities, genders, careers etcetera represented in the newspaper and displayed to a target audience in the last five years. Off the NUMBER of quotations and NUMBER of known speakers retrieved from the dataset, the analysis was conducted on NUMBER of quotations said by NUMBER of speakers. Indeed, the dataset being too important and full of unknown speaker caracteritsics, data processing has been done retrieving only speakers with known CECI et CELA for a much more relevant and reliable dataset applicable to [matched observational studies](#obsstudy). </div>
 
 
@@ -68,6 +70,8 @@ PARLER DES GENDERS
 
 GRAPHE MEDIANE : on avait vu qu'il y avait bcp plus d'hommes qui parlent cependant quand on regarde le nombre de citation par speaker les femmes parlent plus que ce soit avant ou après. MAIS après la différence est intensifiée. CEPENDANT tout le monde parle plus après metoo. MEME tendance entre nombre de quotes et nombre d'occurence donc a partir de maintenant l'analyse ne représentera que le nombre de quotes as they follow the same trend.
 
+{% include Impact_meetoo_median_quotes_occurrences_gender.html %}
+
 
 MOREOVER, after some stattiscal test (wilcoxon signed rank test lien).For any pairing of speakers befre and after the movment, the proba of the speaker after to ahev more quotes than the speaker before is 0.56 for male and 0.57 for female. Donc Thus, we conclude that in general speakers after #MeToo speaks more than speakers before #MeToo. However, even if this phenomenon seems to be a little bit more pronounced for women, we osberve the same trend for both gender, with small effect sizes. We think that our analysis might be too general, so we decide to focus on certain occupations for the rest of the analysis. We will analyze if the profile of the female speakers has changed: whether the professions represented have differed post-Metoo, and once again we will compare this evolution with male speakers.
 
@@ -76,6 +80,8 @@ MOREOVER, after some stattiscal test (wilcoxon signed rank test lien).For any pa
 ## Second question : 
 
 ### Introduction
+
+PARLER DES OCCUPATIONS METTRE DES EXEMPLES de quelles occupation dans quel catégories.
 
 voici occupation de nouveau dataset les plus représentés. Un seul graphe par genre sur le balanced dataset
 What are the main categories of occupations represneted in the news among men and women speakers.
@@ -93,7 +99,8 @@ Here again, the dataset is reduced and cut in two in a way that for every speake
 
 
 GRAPHE: median of the number of quotes by occupation par gender
-dessus:
+dessus: inspirer des commentaires. Dire que ce soit chez hommes ou femme on observe augmentation de la médiane de nombre de quotation après pour les deux genres. Et c'est pour toute les occupations on observe ca. Onobserve higher lédiane en générale chez femme sauf pour certaines exception (voir texte julie seulement quotation et médiane). EN évaluant évolution chez lees deux ca a plus évolué chez les femmes sauf pour teaching government scientist et media ou il y a plus grandes d'occupations de la médiane pour les quotes chez les hommes que chez les femmes. faut further analysis pour assess augmentation.
+
 
 
 
