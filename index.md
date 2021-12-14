@@ -4,9 +4,7 @@ layout: default
 
 # A few data on women's mis-representation in the media
 
-YALLLAA
-
-<div style="text-align: justify"> In <strong>2015</strong>, the Global Media Monitoring Project (GMMP) conducted the largest <a href="https://www.media-diversity.org/additional-files/Who_Makes_the_News_-_Global_Media_Monitoring_Project.pdf">study</a> of women's image, participation and representation in the news media over 20 years and 114 countries. To give an overview on the matter of the significance of women's misrepresentation in the media before 2017, here are some data from this study: </div>
+<div style="text-align: justify">  YALALAL In <strong>2015</strong>, the Global Media Monitoring Project (GMMP) conducted the largest <a href="https://www.media-diversity.org/additional-files/Who_Makes_the_News_-_Global_Media_Monitoring_Project.pdf">study</a> of women's image, participation and representation in the news media over 20 years and 114 countries. To give an overview on the matter of the significance of women's misrepresentation in the media before 2017, here are some data from this study: </div>
 <br>
 - Women made up **24%** of the people in newspaper, television, and radio news
 - Women made up **20%** of expert featured in TV news
@@ -103,6 +101,9 @@ Here again, the dataset is reduced and cut in two in a way that for every speake
 GRAPHE: median of the number of quotes by occupation par gender
 dessus: inspirer des commentaires. Dire que ce soit chez hommes ou femme on observe augmentation de la médiane de nombre de quotation après pour les deux genres. Et c'est pour toute les occupations on observe ca. Onobserve higher lédiane en générale chez femme sauf pour certaines exception (voir texte julie seulement quotation et médiane). EN évaluant évolution chez lees deux ca a plus évolué chez les femmes sauf pour teaching government scientist et media ou il y a plus grandes d'occupations de la médiane pour les quotes chez les hommes que chez les femmes. faut further analysis pour assess augmentation.
 Pour l'instant a part exception rpz des femmes a augmenter a investiguer avec des test stat.
+
+
+EN FAISANT DES TEST STAT on trouve que les différences avant après pour chaque genre et chaque occupation sont significcatives SAUF pour les fmemes media&journalisme et on trouve que leffet les plus grand c'est pour les historienne femme.
 
 
 
