@@ -22,6 +22,7 @@ layout: default
 3. [The Quotebank Dataset](#quotebank)
 4. [The Observational Study](#obsstudy)
 5. [Descriptive Analysis](#descriptive)
+6. [Matching analysis](#obs2)
 
 
 # <a name="context"></a> **Context**: The #MeToo movement 
@@ -52,13 +53,13 @@ layout: default
 
 # <a name="description"></a> **Descritpitve analysis**: An overview of the dataset
 
-<center>
 ![Image](D-perc-quot-genders-period.png)
 ![Image](D-occ-female.png)
 ![Image](D-lex-genders.png)
 ![Image](D-lex-genders.png)
 ![Image](D-lex-genders.png)
 ![Image](D-lex-genders.png)
- </center>
  
  
+ 
+# <a name="obs2"></a> **Matching analysis**: the movement real impact on the newspapers
