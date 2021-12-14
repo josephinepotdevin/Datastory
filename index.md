@@ -10,7 +10,7 @@ layout: default
 - Women were the subject of political and governmental coverage **16%** of the time
  <div style="text-align: justify"></div>
  <br>
- <div style="text-align: justify">This image of a gendered society reported by the every media can reinforce and perpetuate harmful gender stereotypes. Clearly, all media outlets need to change the way they reflect the world. Maybe the MeToo movement had a positive impact on this challenge ?... </div>
+ <div style="text-align: justify">This image of a gendered society reported by the every media can reinforce and perpetuate harmful gender stereotypes. Maybe the MeToo movement had a positive impact on this challenge ?... </div>
 
 
 
