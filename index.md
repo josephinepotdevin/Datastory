@@ -14,7 +14,7 @@ layout: default
  <br>
  <div style="text-align: justify">This image of a gendered society reported by the every media can reinforce and perpetuate harmful gender stereotypes. Maybe the MeToo movement had a positive impact on this challenge ?... </div>
 
-
+ ICI METTRE GRAPHE JEANNETTE?
 
 # **Table of Contents**
 1. [Context](#context)
@@ -42,8 +42,12 @@ layout: default
 
 # <a name="description"></a> **Descriptitve analysis**: An overview of the dataset
 
+INTRODUIRE 2 Q : Est ce que les femmes parlent plus en générale après metoo? Est ce que la rpz des femmes à changer en termes de leur occupations?
+
 {% include imagetext.html image_path="D-perc-quot-genders-period.png" title="Title" description="> Description" %}  
 {% include imagetext.html image_path="D-occ-female.png" title="Title" description="> Description" %}  
+
+CONLCU: bcp plus d'hommes en général (80% 20%) => similaire à 2015 et une légère évolution du taux de paroles de la femme qui reste à investiger (est ce metoo ou autres). Occupations: les femmes qui parlent e-le plus politicienne lawyer writer, university teacher distribution skewed
 
 # <a name="obsstudy"></a> **Matched Observational Study**: The ideal setting to a causal analysis
 
@@ -58,11 +62,25 @@ layout: default
 <div style="text-align: justify">Since the quotebank dataset is a found dataset, and not a created experiment, it is appropriate to call its analysis an observational study. With the reduced dataset containing only speakers with enough known characteristics, the following two analysis are conducted. The first is only a <strong>description of the dataset</strong>. The second is a <strong>matched observational study</strong>. This means that the dataset is reduced and cut in two in a way that for every speaker quoted before #MeToo thus belonging to the before #MeToo dataset (i.e., before October 2017), a very similar speaker (or the same one if this one is quoted after MeToo) belongs to the new dataset of after #MeToo quotes. Similarity is measured by the degree of similitude of the features obtained on the speakers (SET CHARACTER). Any pre #MeToo speaker that is not paired with a post #MeToo counterpart (and vice versa) is thus removed from the dataset. Therefore, the 'before' dataset contains speakers extremely similar the the 'after' dataset i.e. the speakers have the same characteristics. The two new datsets can be approximated to be the same in term of the speakers it contains and thus can be properly compared with no risk of confounders interfering with the causality.</div>
  
  
-## <a name="obs2"></a> ****
+## <a name="q1"></a> **First Question**: Do women speak more in general after the movement?
 
-{% include imagetext.html image_path="O_dens_nb_occurence.png" title="Title" description="> Description" %}  
-{% include imagetext.html image_path="O_geom_mean_quotes.png" title="Title" description="> Description" %}  
-{% include imagetext.html image_path="O_occupations.png" title="Title" description="> Description" %}  
+GRAPHE MEDIANE : on avait vu qu'il y avait bcp plus d'hommes qui parlent cependant quand on regarde le nombre de citation par speaker les femmes parlent plus que ce soit avant ou après. MAIS après la différence est intensifiée. CEPENDANT tout le monde parle plus après metoo. MEME tendance entre nombre de quotes et nombre d'occurence donc a partir de maintenant l'analyse ne représentera que le nombre de quotes as they follow the same trend.
+
+
+MOREOVER, after some stattiscal test (wilcoxon signed rank test lien).For any pairing of speakers befre and after the movment, the proba of the speaker after to ahev more quotes than the speaker before is 0.56 for male and 0.57 for female. Donc Thus, we conclude that in general speakers after #MeToo speaks more than speakers before #MeToo. However, even if this phenomenon seems to be a little bit more pronounced for women, we osberve the same trend for both gender, with small effect sizes. We think that our analysis might be too general, so we decide to focus on certain occupations for the rest of the analysis. We will analyze if the profile of the female speakers has changed: whether the professions represented have differed post-Metoo, and once again we will compare this evolution with male speakers.
+
+
+
+## Second question 
+
+### INtroduction
+
+voici occupation de nouveau dataset les plus représentés. Un seul graphe par genre sur le balanced dataset
+
+GRAPHE JEANNETTE
+
+
+
 
 
 
