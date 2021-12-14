@@ -52,6 +52,13 @@ layout: default
 
 # <a name="description"></a> **Descritpitve analysis**: An overview of the dataset
 
+<center>
+![Image](D-perc-quot-genders-period.png)
+![Image](D-occ-female.png)
 ![Image](D-lex-genders.png)
+![Image](D-lex-genders.png)
+![Image](D-lex-genders.png)
+![Image](D-lex-genders.png)
+ </center>
  
  
