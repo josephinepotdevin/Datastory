@@ -82,6 +82,8 @@ What are the main categories of occupations represneted in the news among men an
 
 GRAPHE JEANNETTE
 
+Parler de proportion sur les graphes de jeannette.
+
 ### Matching par occupations
 
 Analyse if some categoreis of occupation are more represented. 
