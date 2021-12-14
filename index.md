@@ -2,8 +2,6 @@
 layout: default
 ---
 
-# <a name="abstract"></a> **Abstract**: A few data on women mis-representation in the media 
-
 <div style="text-align: justify"> In <strong>2015</strong>, the Global Media Monitoring Project (GMMP) conducted the largest <a href="https://www.media-diversity.org/additional-files/Who_Makes_the_News_-_Global_Media_Monitoring_Project.pdf">study</a> of women's image, participation and representation in the news media over 20 years and 114 countries. To give an overview on the matter of the significance of women's misrepresentation in the media before 2017, here are some data from this study: </div>
 <br>
 - Women made up **24%** of the people in newspaper, television, and radio news
@@ -17,12 +15,11 @@ layout: default
 
 
 # **Table of Contents**
-1. [Abstract](#abstract)
-2. [Context](#context)
-3. [The Quotebank Dataset](#quotebank)
-4. [The Observational Study](#obsstudy)
-5. [Descriptive Analysis](#descriptive)
-6. [Matching analysis](#obs2)
+1. [Context](#context)
+2. [The Quotebank Dataset](#quotebank)
+3. [The Observational Study](#obsstudy)
+4. [Descriptive Analysis](#descriptive)
+5. [Matching analysis](#obs2)
 
 
 # <a name="context"></a> **Context**: The #MeToo movement 
