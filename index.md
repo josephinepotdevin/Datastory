@@ -92,7 +92,8 @@ Analyse if some categoreis of occupation are more represented.
 Here again, the dataset is reduced and cut in two in a way that for every speaker of a given category of occupation quoted before #MeToo, a very similar speaker of the same category of occupation belongs to the new dataset of after #MeToo quotes (for more technical detail lien du notebook). 
 
 
-GRAPHE: 
+GRAPHE: median of the number of quotes by occupation par gender
+dessus:
 
 
 
