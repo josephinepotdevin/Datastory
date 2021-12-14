@@ -71,13 +71,18 @@ MOREOVER, after some stattiscal test (wilcoxon signed rank test lien).For any pa
 
 
 
-## Second question 
+## Second question : 
 
-### INtroduction
+### Introduction
 
 voici occupation de nouveau dataset les plus représentés. Un seul graphe par genre sur le balanced dataset
 
 GRAPHE JEANNETTE
+
+###
+What are the main categories of occupations represneted in the news among men and women speakers.
+
+
 
 
 
