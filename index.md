@@ -100,6 +100,10 @@ Here again, the dataset is reduced and cut in two in a way that for every speake
 
 GRAPHE: median of the number of quotes by occupation par gender
 dessus: inspirer des commentaires. Dire que ce soit chez hommes ou femme on observe augmentation de la médiane de nombre de quotation après pour les deux genres. Et c'est pour toute les occupations on observe ca. Onobserve higher lédiane en générale chez femme sauf pour certaines exception (voir texte julie seulement quotation et médiane). EN évaluant évolution chez lees deux ca a plus évolué chez les femmes sauf pour teaching government scientist et media ou il y a plus grandes d'occupations de la médiane pour les quotes chez les hommes que chez les femmes. faut further analysis pour assess augmentation.
+Pour l'instant a part exception rpz des femmes a augmenter a investiguer avec des test stat.
+
+
+
 
 
 
