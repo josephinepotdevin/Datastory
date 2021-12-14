@@ -53,7 +53,17 @@ layout: default
 # <a name="description"></a> **Descritpitve analysis**: An overview of the dataset
 
  
+ {% include D-lex-genders.html %}
  
+ {% include D-lexical-metoo.html %}
+ 
+ {% include D-lexical-sex_harass.html %}
+ 
+ {% include D-occ-female.html %}
+ 
+ {% include D-occ-male.html %}
+ 
+ {% include D-perc-quot-genders-period.html %}
  
  
  
