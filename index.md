@@ -61,3 +61,7 @@ layout: default
  
  
 # <a name="obs2"></a> **Matching analysis**: the movement real impact on the newspapers
+
+![Image](O_dens_nb_occurence.png)
+![Image](O_geom_mean_quotes.png)
+![Image](O_occupations.png)
