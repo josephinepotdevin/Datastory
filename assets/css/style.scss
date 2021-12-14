@@ -24,7 +24,7 @@
   display: flex;
 }
 .col-1-2 {
-  //flex: 1;
+  flex: 1;
 }
 .col-1-2:last-child {
   margin-left: auto;
@@ -44,17 +44,17 @@
   //margin-bottom:auto;
 //}
 
-//.comment {
-  //font-style: italic;
-  //font-size: large;
-  //text-align: center;
-//}
+.comment {
+  font-style: italic;
+  font-size: large;
+  text-align: center;
+}
 
-//.commenttitle {
-  //font-style: normal;
-  //font-size: x-large;
-  //text-align: center;
-//}
+.commenttitle {
+  font-style: normal;
+  font-size: x-large;
+  text-align: center;
+}
 
 .image-centered {
   display: block;
