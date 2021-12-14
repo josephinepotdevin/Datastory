@@ -60,6 +60,8 @@ CONLCU: bcp plus d'hommes en général (80% 20%) => similaire à 2015 et une lé
  <br>
  
 <div style="text-align: justify">Since the quotebank dataset is a found dataset, and not a created experiment, it is appropriate to call its analysis an observational study. With the reduced dataset containing only speakers with enough known characteristics, the following two analysis are conducted. The first is only a <strong>description of the dataset</strong>. The second is a <strong>matched observational study</strong>. This means that the dataset is reduced and cut in two in a way that for every speaker quoted before #MeToo thus belonging to the before #MeToo dataset (i.e., before October 2017), a very similar speaker (or the same one if this one is quoted after MeToo) belongs to the new dataset of after #MeToo quotes. Similarity is measured by the degree of similitude of the features obtained on the speakers (SET CHARACTER). Any pre #MeToo speaker that is not paired with a post #MeToo counterpart (and vice versa) is thus removed from the dataset. Therefore, the 'before' dataset contains speakers extremely similar the the 'after' dataset i.e. the speakers have the same characteristics. The two new datsets can be approximated to be the same in term of the speakers it contains and thus can be properly compared with no risk of confounders interfering with the causality.</div>
+
+PARLER DES GENDERS
  
  
 ## <a name="q1"></a> **First Question**: Do women speak more in general after the movement?
@@ -76,11 +78,17 @@ MOREOVER, after some stattiscal test (wilcoxon signed rank test lien).For any pa
 ### Introduction
 
 voici occupation de nouveau dataset les plus représentés. Un seul graphe par genre sur le balanced dataset
+What are the main categories of occupations represneted in the news among men and women speakers.
 
 GRAPHE JEANNETTE
 
-###
-What are the main categories of occupations represneted in the news among men and women speakers.
+### Matching par occupations
+
+Analyse if some categoreis of occupation are more represented. 
+
+
+Here again, the dataset is reduced and cut in two in a way that for every speaker of a given category of occupation quoted before #MeToo, a very similar speaker of the same category of occupation belongs to the new dataset of after #MeToo quotes (for more technical detail lien du notebook). 
+
 
 
 
