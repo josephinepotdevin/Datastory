@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-# <a name="abstract"></a>A few data on women's mis-representation in the media
+# <a name="abstr"></a>A few data on women's mis-representation in the media
 
 <div style="text-align: justify"> In <strong>2015</strong>, the Global Media Monitoring Project (GMMP) conducted the largest <a href="https://www.media-diversity.org/additional-files/Who_Makes_the_News_-_Global_Media_Monitoring_Project.pdf">study</a> of women's image, participation and representation in the news media over 20 years and 114 countries. To give an overview on the matter of the significance of women's misrepresentation in the media before 2017, here are some data from this study: </div>
 <br>
@@ -93,13 +93,6 @@ layout: default
 # <a name="description"></a> **Descriptitve analysis**: An overview of the dataset
 
 The whole analysis is built around two pillar questions:
-
-<center><span style="color:Black"><font size="4.5">""Do women speak more in general after the movement?"</font></span></center>
-
-<center><span style="color:Black"><font size="4.5">""Has the representation of women's occupations changed after #MeToo"</font></span></center>
-
-
-{% include imagetext.html image_path="D-perc-quot-genders-period.png" title="Percentage of quotations by gender and by period" description="> The voice in the newspapers is much more given to men than to women (about 80% against 20%) which is similar to the <a href="#abstract">figures</a> published in 2015. A slight evolution of the rate of women's speech appears between the periods but it remains to be investigated." %}  
 
 
 
