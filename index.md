@@ -95,22 +95,26 @@ layout: default
 The whole analysis is built around two pillar questions:
 
 
-<center><span style="color:Black"><font size="4.5">""Do women speak more in general after the movement?"</font></span></center>
+<center><span style="color:Black"><font size="5">""Do women speak more in general after the movement?"</font></span></center>
 
-<center><span style="color:Black"><font size="4.5">""Has the representation of women's occupations changed after #MeToo"</font></span></center>
+<center><span style="color:Black"><font size="5">""Has the representation of women's occupations changed after #MeToo"</font></span></center>
 
-{% include imagetextright.html image_path="D-perc-quot-genders-period.png" title="Percentage of quotations by gender and by period" description="> The voice in the newspapers is much more given to men than to women (about 80% against 20%) which is similar to the figures published in 2015. A slight evolution of the rate of women's speech appears between the periods but it remains to be investigated." %}  
+<br>
 
-<p class="flotte">
- <img src="D-lex.png" alt="">
-</p>
-<p>
- Toutes les nouveautés, rien que des nouveautés.
-</p>
+{% include imagetextright.html image_path="D-perc-quot-genders-period.png" title="Counting the quotes published for each gender" description="> The voice in the newspapers is much more given to men than to women (about 80% against 20%) which is similar to the figures published in 2015. A slight evolution of the rate of women's speech appears between the periods but it remains to be investigated." %}  
+
+<br>
+
+{% include imagetextright.html image_path="D-occ-female.png" title="Which females occupations are most represented" description="> It is observed that the most talked about women are politicians, lawyer, writer, university teacher. The distribution is however highly skewed indicating a huge asymmetry in the representation of occupations in newspapers" %}  
+
+<br>
 
 
 
-CONLCU: bcp plus d'hommes en général (80% 20%) => similaire à 2015 et une légère évolution du taux de paroles de la femme qui reste à investiger (est ce metoo ou autres). Occupations: les femmes qui parlent e-le plus politicienne lawyer writer, university teacher distribution skewed
+
+
+
+
 
 
 
