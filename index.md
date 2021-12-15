@@ -52,9 +52,7 @@ layout: default
 
 # <a name="quotebank"></a> **The Quotebank Dataset**: A goldmine of information on the role of women in the media
 
-<div style="text-align: justify"> 178 million quotations along with its speakers extracted from hundreds of english articles from 2015 to 2020 together in one open corpus; That's the <a name="qtdata" href="https://dlab.epfl.ch/people/west/pub/Vaucher-Spitz-Catasta-West_WSDM-21.pdf">QuoteBank Dataset</a>. 
- 
-For a more thorough analysis, additional information about the speakers from the dataset need to be collected. Thus, thanks to an additional speaker metadata available for ~9M speakers, several attributes were added to the Quotebank dataset to make it more complete: the gender, the date of birth, the academic degree, and finally the speaker's occupations. From here, we have at our disposal a goldmine of information on the subjects, personnalities, ethnicities, genders, careers etcetera represented in the newspaper and displayed to a target audience in the last five years. Off the NUMBER of quotations and NUMBER of known speakers retrieved from the dataset, the analysis was conducted on NUMBER of quotations said by NUMBER of speakers. Indeed, the dataset being too important and full of unknown speaker caracteritsics, data processing has been done retrieving only speakers with known CECI et CELA for a much more relevant and reliable dataset applicable to <a href="#obsstudy">matched observational studies</a>. A typical line from our dataset gives the informations:</div>
+<div style="text-align: justify"> 178 million quotations along with its speakers extracted from hundreds of english articles from 2015 to 2020 together in one open corpus; That's the <a name="qtdata" href="https://dlab.epfl.ch/people/west/pub/Vaucher-Spitz-Catasta-West_WSDM-21.pdf">QuoteBank Dataset</a>. For a more thorough analysis, additional information about the speakers from the dataset need to be collected. Thus, thanks to an additional speaker metadata available for ~9M speakers (<a href="https://www.wikidata.org/wiki/Wikidata:Main_Page">Wikidata</a>), several attributes were added to the Quotebank dataset to make it more complete: the gender, the date of birth, the academic degree, and finally the speaker's occupations. From here, we have at our disposal a goldmine of information on the subjects, personnalities, genders, careers etcetera represented in the newspaper and displayed to a target audience in the last five years. Nevertheless, the dataset being too important and full of unknown speaker caracteritsics, data processing has been done retrieving only speakers with male of female genders, know ages academic degrees and occupations for a much more relevant and reliable dataset applicable to <a href="#obsstudy">matched observational studies</a>. A typical line from our edited dataset gives the following informations:</div>
  
  
  <br>
@@ -70,7 +68,7 @@ For a more thorough analysis, additional information about the speakers from the
   </tr>
   <tr>
     <td>Eric Garcetti</td>
-    <td>Q5386557</td>
+    <td><a href="https://www.wikidata.org/wiki/Q5386557">Q5386557</a></td>
     <td>Male</td>
     <td>47</td>
   </tr>
