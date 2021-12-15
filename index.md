@@ -4,7 +4,7 @@ layout: default
 
 # A few data on women's mis-representation in the media
 
-<div style="text-align: justify">  YALALAL In <strong>2015</strong>, the Global Media Monitoring Project (GMMP) conducted the largest <a href="https://www.media-diversity.org/additional-files/Who_Makes_the_News_-_Global_Media_Monitoring_Project.pdf">study</a> of women's image, participation and representation in the news media over 20 years and 114 countries. To give an overview on the matter of the significance of women's misrepresentation in the media before 2017, here are some data from this study: </div>
+<div style="text-align: justify"> In <strong>2015</strong>, the Global Media Monitoring Project (GMMP) conducted the largest <a href="https://www.media-diversity.org/additional-files/Who_Makes_the_News_-_Global_Media_Monitoring_Project.pdf">study</a> of women's image, participation and representation in the news media over 20 years and 114 countries. To give an overview on the matter of the significance of women's misrepresentation in the media before 2017, here are some data from this study: </div>
 <br>
 - Women made up **24%** of the people in newspaper, television, and radio news
 - Women made up **20%** of expert featured in TV news
@@ -14,13 +14,13 @@ layout: default
  <br>
  <div style="text-align: justify">This image of a gendered society reported by the every media can reinforce and perpetuate harmful gender stereotypes. Maybe the MeToo movement had a positive impact on this challenge ?... </div>
 
- ICI METTRE GRAPHE JEANNETTE?
-
 # **Table of Contents**
 1. [Context](#context)
 2. [The Quotebank Dataset](#quotebank)
 3. [Descriptive Analysis](#descriptive)
-4. [The Observational Study](#obsstudy)
+4. [Matched Observational Study](#obsstudy)
+5. [First Question of the Study](#first)
+6. [Second Question of the Study](#second)
 
 
 # <a name="context"></a> **Context**: The #MeToo movement 
@@ -66,7 +66,7 @@ CONLCU: bcp plus d'hommes en général (80% 20%) => similaire à 2015 et une lé
 PARLER DES GENDERS
  
  
-## <a name="q1"></a> **First Question**: Do women speak more in general after the movement?
+# <a name="first"></a> **First Question of the Study**: Do women speak more in general after the movement?
 
 GRAPHE MEDIANE : on avait vu qu'il y avait bcp plus d'hommes qui parlent cependant quand on regarde le nombre de citation par speaker les femmes parlent plus que ce soit avant ou après. MAIS après la différence est intensifiée. CEPENDANT tout le monde parle plus après metoo. MEME tendance entre nombre de quotes et nombre d'occurence donc a partir de maintenant l'analyse ne représentera que le nombre de quotes as they follow the same trend.
 
@@ -77,9 +77,9 @@ MOREOVER, after some stattiscal test (wilcoxon signed rank test lien).For any pa
 
 
 
-## Second question : 
+# <a name="first"></a> **Second Question of the Study**: Has the representation of women's occupations changed after #MeToo
 
-### Introduction
+## Professions representation in the matched observational sutdy dataset
 
 PARLER DES OCCUPATIONS METTRE DES EXEMPLES de quelles occupation dans quel catégories.
 
@@ -90,7 +90,7 @@ GRAPHE JEANNETTE
 
 Parler de proportion sur les graphes de jeannette.
 
-### Matching par occupations
+### Targetted matching according to occupations
 
 Analyse if some categoreis of occupation are more represented. 
 
@@ -105,9 +105,6 @@ Pour l'instant a part exception rpz des femmes a augmenter a investiguer avec de
 
 EN FAISANT DES TEST STAT on trouve que les différences avant après pour chaque genre et chaque occupation sont significcatives SAUF pour les fmemes media&journalisme et on trouve que leffet les plus grand c'est pour les historienne femme.
 
-
-
-METTRE GRAPHE: Media et journalism
 
 
 
