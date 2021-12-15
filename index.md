@@ -1,4 +1,4 @@
-DarkSlateBlue---
+---
 layout: default
 ---
 # <a name="abstr"></a>A few data on women's mis-representation in the media
