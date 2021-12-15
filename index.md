@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-# A few data on women's mis-representation in the media
+# <a name="abstract"></a>A few data on women's mis-representation in the media
 
 <div style="text-align: justify"> In <strong>2015</strong>, the Global Media Monitoring Project (GMMP) conducted the largest <a href="https://www.media-diversity.org/additional-files/Who_Makes_the_News_-_Global_Media_Monitoring_Project.pdf">study</a> of women's image, participation and representation in the news media over 20 years and 114 countries. To give an overview on the matter of the significance of women's misrepresentation in the media before 2017, here are some data from this study: </div>
 <br>
@@ -39,16 +39,6 @@ layout: default
 <div style="text-align: justify"> In addition to the movement's instantaneous but temporary effect that can be seen on these graphs, in the long term its beneficial effect is much more profound. Indeed, by inviting thousands of women to come out of the shadows, to protest against such violence, to make themselves heard and to demand justice, these survivors have given the movement an even more important dimension in the fight for gender equality. Indeed, they have empowered the voices of women all around the world.  </div>
 <br> 
 <div style="text-align: justify"><span style="color:Red"><strong>It is hoped to find in this analysis, that this empowerment will reverberate through to the newspapers, where women's voices would be better heard, represented, diversified and accepted.</strong></span>  </div>
-
-
-
-
-
-
-
-
-
-
 
 # <a name="quotebank"></a> **The Quotebank Dataset**: A goldmine of information on the role of women in the media
 
@@ -88,11 +78,31 @@ layout: default
  
 <br>
 
+
+
+
+
+
+
+
+
+
+
+
+
 # <a name="description"></a> **Descriptitve analysis**: An overview of the dataset
 
 INTRODUIRE 2 Q : Est ce que les femmes parlent plus en générale après metoo? Est ce que la rpz des femmes à changer en termes de leur occupations?
 
-{% include test.html image_path="D-perc-quot-genders-period.png" title="Title" description="> Description" %}  
+{% include test.html image_path="D-perc-quot-genders-period.png" title="Percentage of quotations by gender and by period" description="> The voice in the newspapers is much more given to men than to women (about 80% against 20%) which is similar to the <a href="#abstract">figures</a> published in 2015. A slight evolution of the rate of women's speech appears between the periods but it remains to be investigated." %}  
+
+<div style="width: 80%; float:left">
+    <img src="D-perc-quot-genders-period.png" alt="">
+</div>
+
+<div style="width: 20%; float:right">
+ 
+</div>
 
 CONLCU: bcp plus d'hommes en général (80% 20%) => similaire à 2015 et une légère évolution du taux de paroles de la femme qui reste à investiger (est ce metoo ou autres). Occupations: les femmes qui parlent e-le plus politicienne lawyer writer, university teacher distribution skewed
 
