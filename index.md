@@ -62,7 +62,7 @@ layout: default
 <table>
   <tr>
     <td style="background-color: LavenderBlush">Speaker</td>
-    <td style="background-color: LavenderBlush">Speaker's ID</td>
+    <td style="background-color: LavenderBlush">Speaker's Wikidata ID</td>
     <td style="background-color: LavenderBlush">Speaker's gender</td>
     <td style="background-color: LavenderBlush">Speaker's age</td>
   </tr>
