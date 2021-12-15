@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-
+# TEST
 # A few data on women's mis-representation in the media
 
 <div style="text-align: justify"> In <strong>2015</strong>, the Global Media Monitoring Project (GMMP) conducted the largest <a href="https://www.media-diversity.org/additional-files/Who_Makes_the_News_-_Global_Media_Monitoring_Project.pdf">study</a> of women's image, participation and representation in the news media over 20 years and 114 countries. To give an overview on the matter of the significance of women's misrepresentation in the media before 2017, here are some data from this study: </div>
@@ -48,7 +48,7 @@ METTRE UNE QUOTES.
 
 INTRODUIRE 2 Q : Est ce que les femmes parlent plus en générale après metoo? Est ce que la rpz des femmes à changer en termes de leur occupations?
 
-{% include imagetext.html image_path="D-perc-quot-genders-period.png" title="Title" description="> Description" %}  
+{% include test.html image_path="D-perc-quot-genders-period.png" title="Title" description="> Description" %}  
 {% include imagetextright.html image_path="D-occ-female.png" title="Title" description="> Description" %}  
 
 CONLCU: bcp plus d'hommes en général (80% 20%) => similaire à 2015 et une légère évolution du taux de paroles de la femme qui reste à investiger (est ce metoo ou autres). Occupations: les femmes qui parlent e-le plus politicienne lawyer writer, university teacher distribution skewed
