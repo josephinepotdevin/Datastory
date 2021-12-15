@@ -41,12 +41,31 @@ layout: default
 <div style="text-align: justify"><span style="color:Red"><strong>It is hoped to find in this analysis, that this empowerment will reverberate through to the newspapers, where women's voices would be better heard, represented, diversified and accepted.</strong></span>  </div>
 
 
+
+
+
+
+
+
+
+
+
 # <a name="quotebank"></a> **The Quotebank Dataset**: A goldmine of information on the role of women in the media
 
 DIRE QUE AU DATASET ON A RAJOUTÉ LES OCCUPATIONS académic degree
 METTRE UNE QUOTES.
 
-<div style="text-align: justify"> 178 million quotations along with its speakers extracted from hundreds of english articles from 2015 to 2020 together in one open corpus; That's the <a name="qtdata" href="https://dlab.epfl.ch/people/west/pub/Vaucher-Spitz-Catasta-West_WSDM-21.pdf">QuoteBank Dataset</a>. A goldmine of information on the subjects, personnalities, ethnicities, genders, careers etcetera represented in the newspaper and displayed to a target audience in the last five years. Off the NUMBER of quotations and NUMBER of known speakers retrieved from the dataset, the analysis was conducted on NUMBER of quotations said by NUMBER of speakers. Indeed, the dataset being too important and full of unknown speaker caracteritsics, data processing has been done retrieving only speakers with known CECI et CELA for a much more relevant and reliable dataset applicable to <a href="#obsstudy">matched observational studies</a>.</div>
+<div style="text-align: justify"> 178 million quotations along with its speakers extracted from hundreds of english articles from 2015 to 2020 together in one open corpus; That's the <a name="qtdata" href="https://dlab.epfl.ch/people/west/pub/Vaucher-Spitz-Catasta-West_WSDM-21.pdf">QuoteBank Dataset</a>. 
+ 
+For a more thorough analysis, additional information about the speakers from the dataset need to be collected. Thus, thanks to an additional speaker metadata available for ~9M speakers, several attributes were added to the Quotebank dataset to make it more complete: the gender, the date of birth, the academic degree, and finally the speaker's occupations. From here, we have at our disposal a goldmine of information on the subjects, personnalities, ethnicities, genders, careers etcetera represented in the newspaper and displayed to a target audience in the last five years. Off the NUMBER of quotations and NUMBER of known speakers retrieved from the dataset, the analysis was conducted on NUMBER of quotations said by NUMBER of speakers. Indeed, the dataset being too important and full of unknown speaker caracteritsics, data processing has been done retrieving only speakers with known CECI et CELA for a much more relevant and reliable dataset applicable to <a href="#obsstudy">matched observational studies</a>. A typical line from our dataset gives the informations:</div>
+ 
+ 
+ <br>
+ 
+<center><span style="color:DarkSlateGrey"><font size="4.5"><i>""At this moment the women of Time's Up and #metoo are looking and saying, `Why don't we have more stories and why is it that if we see these perversions at the end of the line, why aren't we fixing it at the beginning of the line?"</i></font></span></center>
+<center><span style="color:LightBlue"><font size="3.5">   </font></span></center>
+ 
+<br>
 
 # <a name="description"></a> **Descriptitve analysis**: An overview of the dataset
 
@@ -55,6 +74,15 @@ INTRODUIRE 2 Q : Est ce que les femmes parlent plus en générale après metoo? 
 {% include test.html image_path="D-perc-quot-genders-period.png" title="Title" description="> Description" %}  
 
 CONLCU: bcp plus d'hommes en général (80% 20%) => similaire à 2015 et une légère évolution du taux de paroles de la femme qui reste à investiger (est ce metoo ou autres). Occupations: les femmes qui parlent e-le plus politicienne lawyer writer, university teacher distribution skewed
+
+
+
+
+
+
+
+
+
 
 # <a name="obsstudy"></a> **Matched Observational Study**: The ideal setting to a causal analysis
 
@@ -71,6 +99,15 @@ CONLCU: bcp plus d'hommes en général (80% 20%) => similaire à 2015 et une lé
 PARLER DES GENDERS
  
  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 # <a name="first"></a> **First Question of the Study**: Do women speak more in general after the movement?
 
 GRAPHE MEDIANE : on avait vu qu'il y avait bcp plus d'hommes qui parlent cependant quand on regarde le nombre de citation par speaker les femmes parlent plus que ce soit avant ou après. MAIS après la différence est intensifiée. CEPENDANT tout le monde parle plus après metoo. MEME tendance entre nombre de quotes et nombre d'occurence donc a partir de maintenant l'analyse ne représentera que le nombre de quotes as they follow the same trend.
@@ -79,6 +116,16 @@ GRAPHE MEDIANE : on avait vu qu'il y avait bcp plus d'hommes qui parlent cependa
 
 
 MOREOVER, after some stattiscal test (wilcoxon signed rank test lien).For any pairing of speakers befre and after the movment, the proba of the speaker after to ahev more quotes than the speaker before is 0.56 for male and 0.57 for female. Donc Thus, we conclude that in general speakers after #MeToo speaks more than speakers before #MeToo. However, even if this phenomenon seems to be a little bit more pronounced for women, we osberve the same trend for both gender, with small effect sizes. We think that our analysis might be too general, so we decide to focus on certain occupations for the rest of the analysis. We will analyze if the profile of the female speakers has changed: whether the professions represented have differed post-Metoo, and once again we will compare this evolution with male speakers.
+
+
+
+
+
+
+
+
+
+
 
 
 
