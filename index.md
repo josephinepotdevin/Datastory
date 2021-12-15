@@ -60,6 +60,7 @@ For a more thorough analysis, additional information about the speakers from the
  <br>
  
 <center><span style="color:DarkCyan"><font size="4.5"><i>""At this moment the women of Time's Up and #metoo are looking and saying, `Why don't we have more stories and why is it that if we see these perversions at the end of the line, why aren't we fixing it at the beginning of the line?"</i></font></span></center>
+<br>
 <table>
   <tr>
     <td style="background-color: LavenderBlush">Speaker</td>
