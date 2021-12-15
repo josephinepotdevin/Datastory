@@ -93,7 +93,7 @@ The dataset, as said before, was reduced to have an optimal analysis. Let's take
 
 <br>
 
-{% include imagetext.html image_path="D-occ-female.png" title="Most represented females occupations" description=">It is observed that the most talked about women are politicians, lawyer, writer, university teacher. The distribution is however highly skewed indicating a huge asymmetry in the representation of occupations in newspapers" %}  
+{% include imagetext.html image_path="D-occ-female.png" title="Looking at the occupation of women quoted" description=">It is observed that the most talked about women are politicians, lawyer, writer, university teacher. The distribution is however highly skewed indicating a huge asymmetry in the representation of occupations in newspapers" %}  
 
 <br>
 
@@ -139,7 +139,7 @@ Previously, it was observed that significantly more men were quoted at any perio
 {% include occupation.html %}
 
 
-MOREOVER, after some stattiscal test (wilcoxon signed rank test lien).For any pairing of speakers befre and after the movment, the proba of the speaker after to ahev more quotes than the speaker before is 0.56 for male and 0.57 for female. Donc Thus, we conclude that in general speakers after #MeToo speaks more than speakers before #MeToo. However, even if this phenomenon seems to be a little bit more pronounced for women, we osberve the same trend for both gender, with small effect sizes. We think that our analysis might be too general, so we decide to focus on certain occupations for the rest of the analysis. We will analyze if the profile of the female speakers has changed: whether the professions represented have differed post-Metoo, and once again we will compare this evolution with male speakers.
+Moreover, after some statistical test (<a href="https://statistics.laerd.com/spss-tutorials/wilcoxon-signed-rank-test-using-spss-statistics.php">wilcoxon signed rank test</a>) it was found that for any pairing of speakers before and after the movement, the probability of a speaker after #MeToo to have more quotes published than the speaker before #MeToo is of 0.56 for male and 0.57 for female. Thus, it can be concluded that, in general, speakers after the movement speak more than speakers before. However, even if this phenomenon seems to be a little bit more pronounced for women, the same trend is followed by both genders, with small effects. It is possible that this analysis is too general, so we decided to focus only on certain occupations for the rest of the analysis. Thus, we will analyze if the profile of the female speakers has changed i.e. whether the professions represented have differed post-Metoo, and once again we will compare this evolution with male speakers.
 
 
 
