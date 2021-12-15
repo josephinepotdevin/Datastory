@@ -162,13 +162,17 @@ The most represented occupations are quite similar for the men and women, before
 Analyse if some categoreis of occupation are more represented. 
 
 
-Here again, the dataset is reduced and cut in two in a way that for every speaker of a given category of occupation quoted before #MeToo, a very similar speaker of the same category of occupation belongs to the new dataset of after #MeToo quotes (for more technical detail lien du notebook). 
+Here again, the dataset is reduced and cut in two in a way that for every speaker of a certain sex and a given category of occupation quoted before #MeToo, a very similar speaker of the same sex and category of occupation belongs to the new dataset of after #MeToo quotes (for more technical see the <a href="https://github.com/epfl-ada/ada-2021-project-adamn">code</a> we did on the matching). It is now possible to analyse if some categories of occupations are more represented after #MeToo.
+
+<br>
+
+The graph above shows the median number of quotes said according to the sex and the category. We first observe a higher median for female than for male in most cases except for the Historian category. This could indicate that even if the number of male speakers is higher than the number of female speakers, in most cases a single female speaker will have more quotations occurrences than a man. Both male and female speakers show an increase in the median of the number of occurrences after #MeToo. However, this increase is larger for female for the following categories: Government, Scientist, Law, Social Sciences, Literature and Media. We could say that for the previous categories, even if the representation of both genders have increased after #MeToo, this increase is higher for females.
+
+<br>
 
 <img src="O-med-occ-occurence-female.png" alt="">
 
-GRAPHE: median of the number of quotes by occupation par gender
-dessus: inspirer des commentaires. Dire que ce soit chez hommes ou femme on observe augmentation de la médiane de nombre de quotation après pour les deux genres. Et c'est pour toute les occupations on observe ca. Onobserve higher lédiane en générale chez femme sauf pour certaines exception (voir texte julie seulement quotation et médiane). EN évaluant évolution chez lees deux ca a plus évolué chez les femmes sauf pour teaching government scientist et media ou il y a plus grandes d'occupations de la médiane pour les quotes chez les hommes que chez les femmes. faut further analysis pour assess augmentation.
-Pour l'instant a part exception rpz des femmes a augmenter a investiguer avec des test stat.
+Further analysis is needed to assess this increase, because so far, with some exceptions, the representation of women does seem to have increased in this mateched observational study. This increase is to be further digested with the help of statistical tests.
 
 
 EN FAISANT DES TEST STAT on trouve que les différences avant après pour chaque genre et chaque occupation sont significcatives SAUF pour les fmemes media&journalisme et on trouve que leffet les plus grand c'est pour les historienne femme.
