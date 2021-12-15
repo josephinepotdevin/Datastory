@@ -159,14 +159,11 @@ The most represented occupations are quite similar for the men and women, before
 
 ## Targetted matching according to occupations
 
-Analyse if some categoreis of occupation are more represented. 
-
-
 Here again, the dataset is reduced and cut in two in a way that for every speaker of a certain sex and a given category of occupation quoted before #MeToo, a very similar speaker of the same sex and category of occupation belongs to the new dataset of after #MeToo quotes (for more technical see the <a href="https://github.com/epfl-ada/ada-2021-project-adamn">code</a> we did on the matching). It is now possible to analyse if some categories of occupations are more represented after #MeToo.
 
 <br>
 
-The graph above shows the median number of quotes said according to the sex and the category. We first observe a higher median for female than for male in most cases except for the Historian category. This could indicate that even if the number of male speakers is higher than the number of female speakers, in most cases a single female speaker will have more quotations occurrences than a man. Both male and female speakers show an increase in the median of the number of occurrences after #MeToo. However, this increase is larger for female for the following categories: Government, Scientist, Law, Social Sciences, Literature and Media. We could say that for the previous categories, even if the representation of both genders have increased after #MeToo, this increase is higher for females.
+The graph below shows the median number of quotes said according to the sex and the category. We first observe a higher median for female than for male in most cases except for the Historian category. This could indicate that even if the number of male speakers is higher than the number of female speakers, in most cases a single female speaker will have more quotations occurrences than a man. Both male and female speakers show an increase in the median of the number of occurrences after #MeToo. However, this increase is larger for female for the following categories: Government, Scientist, Law, Social Sciences, Literature and Media. We could say that for the previous categories, even if the representation of both genders have increased after #MeToo, this increase is higher for females.
 
 <br>
 
