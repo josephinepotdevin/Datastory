@@ -49,7 +49,6 @@ METTRE UNE QUOTES.
 INTRODUIRE 2 Q : Est ce que les femmes parlent plus en générale après metoo? Est ce que la rpz des femmes à changer en termes de leur occupations?
 
 {% include test.html image_path="D-perc-quot-genders-period.png" title="Title" description="> Description" %}  
-{% include imagetextright.html image_path="D-occ-female.png" title="Title" description="> Description" %}  
 
 CONLCU: bcp plus d'hommes en général (80% 20%) => similaire à 2015 et une légère évolution du taux de paroles de la femme qui reste à investiger (est ce metoo ou autres). Occupations: les femmes qui parlent e-le plus politicienne lawyer writer, university teacher distribution skewed
 
