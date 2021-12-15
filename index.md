@@ -28,7 +28,7 @@ layout: default
 
 <br>
 
-<div style="text-align: justify">The reappearance of this movement can be seen in the newspapers. Indeed, when one analyses the lexical field of thousands of citations from English articles, coming from the <a href="#quotebank">Quotebank Dataset</a>), the rise of #MeToo and the Harvey Weinstein scandal is clearly marked temporally in the two graphs below. The frequency of quoted words related to sexual harassment () and the #MeToo movement () are respectively represented on the left and right figure. Each shows a marked peak of higher frequency in the year 2017 relating the importance that the movement took that year in the newspapers.</div> 
+<div style="text-align: justify">The reappearance of this movement can be seen in the newspapers. Indeed, when one analyses the lexical field of thousands of citations from English articles, coming from the <a href="#quotebank">Quotebank Dataset</a>), the rise of #MeToo and the Harvey Weinstein scandal is clearly marked temporally in the two graphs below. The frequency of quoted words related to sexual harassment (sexual harassment, sexual assault, rape, sexual touching) and any references to the #MeToo movement are respectively represented on the left and right figure. Each shows a marked peak of higher frequency in the year 2017 relating the importance that the movement took that year in the newspapers.</div> 
 
 <img src="D-lex.png" alt="">
 
@@ -98,6 +98,7 @@ Analyse if some categoreis of occupation are more represented.
 
 Here again, the dataset is reduced and cut in two in a way that for every speaker of a given category of occupation quoted before #MeToo, a very similar speaker of the same category of occupation belongs to the new dataset of after #MeToo quotes (for more technical detail lien du notebook). 
 
+<img src="O-med-occ-occurence-female.png" alt="">
 
 GRAPHE: median of the number of quotes by occupation par gender
 dessus: inspirer des commentaires. Dire que ce soit chez hommes ou femme on observe augmentation de la médiane de nombre de quotation après pour les deux genres. Et c'est pour toute les occupations on observe ca. Onobserve higher lédiane en générale chez femme sauf pour certaines exception (voir texte julie seulement quotation et médiane). EN évaluant évolution chez lees deux ca a plus évolué chez les femmes sauf pour teaching government scientist et media ou il y a plus grandes d'occupations de la médiane pour les quotes chez les hommes que chez les femmes. faut further analysis pour assess augmentation.
