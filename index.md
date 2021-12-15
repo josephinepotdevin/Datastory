@@ -29,7 +29,7 @@ layout: default
 
 INTRODUIRE ET PARLER DU GRAPHE
 
-![Image]()
+![Image](D-lex.png)
 
 <div style="text-align: justify">Moreover, and most importantly, by inviting thousands of women to come out of the shadows, to protest against such violence, to make themselves heard and to demand justice, these survivors have given the movement an even more important dimension in the fight for gender equality. Indeed, they have empowered the voices of women all around the world.  </div>
 <br> 
@@ -38,6 +38,7 @@ INTRODUIRE ET PARLER DU GRAPHE
 
 # <a name="quotebank"></a> **The Quotebank Dataset**: A goldmine of information on the role of women in the media
 
+DIRE QUE AU DATASET ON A RAJOUTÉ LES OCCUPATIONS académic degree
 METTRE UNE QUOTES.
 
 <div style="text-align: justify"> 178 million quotations along with its speakers extracted from hundreds of english articles from 2015 to 2020 together in one open corpus; That's the <a name="qtdata" href="https://dlab.epfl.ch/people/west/pub/Vaucher-Spitz-Catasta-West_WSDM-21.pdf">QuoteBank Dataset</a>. A goldmine of information on the subjects, personnalities, ethnicities, genders, careers etcetera represented in the newspaper and displayed to a target audience in the last five years. Off the NUMBER of quotations and NUMBER of known speakers retrieved from the dataset, the analysis was conducted on NUMBER of quotations said by NUMBER of speakers. Indeed, the dataset being too important and full of unknown speaker caracteritsics, data processing has been done retrieving only speakers with known CECI et CELA for a much more relevant and reliable dataset applicable to [matched observational studies](#obsstudy). </div>
@@ -82,7 +83,7 @@ MOREOVER, after some stattiscal test (wilcoxon signed rank test lien).For any pa
 
 ## Professions representation in the matched observational sutdy dataset
 
-PARLER DES OCCUPATIONS METTRE DES EXEMPLES de quelles occupation dans quel catégories.
+PARLER DES catégorie OCCUPATIONS METTRE DES EXEMPLES de quelles occupation dans quel catégories.
 
 voici occupation de nouveau dataset les plus représentés. Un seul graphe par genre sur le balanced dataset
 What are the main categories of occupations represneted in the news among men and women speakers.
