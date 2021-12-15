@@ -231,7 +231,8 @@ a {
     padding: 2px 4px;
     font-family: Consolas, "Liberation Mono", Menlo, Courier, monospace;
     font-size: 0.9rem;
-    color: $code-text-color;
+    //color: $code-text-color;
+    color: Fuchsia;
     background-color: $code-bg-color;
     border-radius: 0.3rem;
   }
@@ -241,7 +242,8 @@ a {
     margin-top: 0;
     margin-bottom: 1rem;
     font: 1rem Consolas, "Liberation Mono", Menlo, Courier, monospace;
-    color: $code-text-color;
+    //color: $code-text-color;
+    color:Fuchsia;
     word-wrap: normal;
     background-color: $code-bg-color;
     border: solid 1px $border-color;
@@ -251,7 +253,8 @@ a {
       padding: 0;
       margin: 0;
       font-size: 0.9rem;
-      color: $code-text-color;
+      //color: $code-text-color;
+      color:Fuchsia;
       word-break: normal;
       white-space: pre;
       background: transparent;
@@ -304,7 +307,8 @@ a {
   blockquote {
     padding: 0 1rem;
     margin-left: 0;
-    color: $blockquote-text-color;
+    //color: $blockquote-text-color;
+    color: Fuchsia;
     border-left: 0.3rem solid $border-color;
 
     > :first-child {
@@ -384,5 +388,6 @@ a {
 }
 
 .site-footer-credits {
-  color: $blockquote-text-color;
+  //color: $blockquote-text-color;
+  color: Fuchsia;
 }
