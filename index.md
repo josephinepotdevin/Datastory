@@ -1,4 +1,4 @@
----
+DarkSlateBlue---
 layout: default
 ---
 # <a name="abstr"></a>A few data on women's mis-representation in the media
@@ -38,7 +38,7 @@ layout: default
 
 <div style="text-align: justify"> In addition to the movement's instantaneous but temporary effect that can be seen on these graphs, in the long term its beneficial effect is much more profound. Indeed, by inviting thousands of women to come out of the shadows, to protest against such violence, to make themselves heard and to demand justice, these survivors have given the movement an even more important dimension in the fight for gender equality. Indeed, they have empowered the voices of women all around the world.  </div>
 <br> 
-<div style="text-align: justify"><span style="color:Red"><strong>It is hoped to find in this analysis, that this empowerment will reverberate through to the newspapers, where women's voices would be better heard, represented, diversified and accepted.</strong></span>  </div>
+<div style="text-align: justify"><span style="color:DarkSlateBlue"><strong>It is hoped to find in this analysis, that this empowerment will reverberate through to the newspapers, where women's voices would be better heard, represented, diversified and accepted.</strong></span>  </div>
 
 # <a name="quotebank"></a> **The Quotebank Dataset**: A goldmine of information on the role of women in the media
 
@@ -83,9 +83,9 @@ layout: default
 The dataset, as said before, was reduced to have an optimal analysis. Let's take a look at what it contains keeping in mind the two pillar questions around which this study is conducted:
 
 
-<center><span style="color:Red"><font size="5">Do women speak more in general after the movement?</font></span></center>
+<center><span style="color:DarkSlateBlue"><font size="5">Do women speak more in general after the movement?</font></span></center>
 
-<center><span style="color:Red"><font size="5">Has the representation of women's occupations changed after #MeToo</font></span></center>
+<center><span style="color:DarkSlateBlue"><font size="5">Has the representation of women's occupations changed after #MeToo</font></span></center>
 
 <br>
 
@@ -105,7 +105,7 @@ After this short description of the dataset, let's get down to business!
  
  <br>
  
- <center><span style="color:Red"><font size="5.2"><i>Has the MeToo movement affect the representation of women in the newspapers?</i></font></span></center>
+ <center><span style="color:DarkSlateBlue"><font size="5.2"><i>Has the MeToo movement affect the representation of women in the newspapers?</i></font></span></center>
  
  <br>
  
