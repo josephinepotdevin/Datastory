@@ -92,7 +92,12 @@ layout: default
 
 # <a name="description"></a> **Descriptitve analysis**: An overview of the dataset
 
-INTRODUIRE 2 Q : Est ce que les femmes parlent plus en générale après metoo? Est ce que la rpz des femmes à changer en termes de leur occupations?
+The whole analysis is built around two pillar questions:
+
+<center><span style="color:Black"><font size="4.5">""Do women speak more in general after the movement?"</font></span></center>
+
+<center><span style="color:Black"><font size="4.5">""Has the representation of women's occupations changed after #MeToo"</font></span></center>
+
 
 {% include test.html image_path="D-perc-quot-genders-period.png" title="Percentage of quotations by gender and by period" description="> The voice in the newspapers is much more given to men than to women (about 80% against 20%) which is similar to the <a href="#abstract">figures</a> published in 2015. A slight evolution of the rate of women's speech appears between the periods but it remains to be investigated." %}  
 
@@ -160,7 +165,7 @@ MOREOVER, after some stattiscal test (wilcoxon signed rank test lien).For any pa
 
 
 
-# <a name="first"></a> **Second Question of the Study**: Has the representation of women's occupations changed after #MeToo
+# <a name="first"></a> **Second Question of the Study**: Has the representation of women's occupations changed after #MeToo?
 
 ## Professions representation in the matched observational sutdy dataset
 
