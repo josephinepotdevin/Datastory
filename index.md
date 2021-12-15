@@ -111,26 +111,6 @@ After this short description of the dataset, let's get down to business!
  
 <div style="text-align: justify">Since the quotebank dataset is a found dataset, and not a created experiment, it is appropriate to call its analysis an observational study. With the reduced dataset containing only speakers with enough known characteristics, the following analysis is conducted: a <strong>matched observational study</strong>. This means that the dataset is reduced and cut in two in a way that for every speaker of a certain gender quoted before #MeToo thus belonging to the before #MeToo dataset (i.e., before October 2017), a very similar speaker (or the same one if this one is quoted after MeToo) of the same gender belongs to the new dataset of after #MeToo quotes. Similarity is measured by the degree of similitude of the features obtained on the speakers (SET CHARACTER). Any pre #MeToo speaker that is not paired with a post #MeToo counterpart (and vice versa) is thus removed from the dataset. Therefore, the 'before' dataset contains speakers extremely similar the the 'after' dataset i.e. the speakers have the same characteristics. The two new datsets can be approximated to be the same in term of the speakers it contains and thus can be properly compared with no risk of confounders interfering with the causality.</div>
 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
 # <a name="first"></a> **First Question of the Study**: Do women speak more in general after the movement?
 
 Previously, it was observed that significantly more men were quoted at any period of time. However, the graph below shows when the median number of quotes said per person is counted, women dominate, both before and after #MeToo with an intensification of the male-female difference after the movement. Nevertheless, this increase is a general trend that can be found for both genders and nothing can be concluded about the role played by the movement in favor of this female rule. So while few women are quoted compared to men, those who are will be listened to much more than the average man quoted. What prevails is the idea that a woman must be much more important and listened to in order to appear in the newspapers. Finally, since the number of quotes and the number of occurrences of quotes follow the same trend, we will only focus on the analysis of the number of quotes.
@@ -157,14 +137,38 @@ Moreover, after some statistical test (<a href="https://statistics.laerd.com/sps
 
 ## Professions representation in the matched observational sutdy dataset
 
+An important feature that was added to the dataset are the occupation categories. Since there were over 900 occupations in the dataset, we created 40 categories to group them together and allow for a simplified assessment of the representation of occupations in the journals. For example, a person with the category "Teaching & Education" could be an academic administrator, a teacher, a Ph.D. student, a faculty member, a guidance counselor etc. With the balanced dataset, a lot of speakers have been removed and the ones remaining have the same characteristics before and after #MeToo in the globality, thus this graph shows the male and female's categories of occupations represented in the balanced datased both before and after metoo as they coincide in terms of charatceristics.
+
+
+<img src="wordcloud.png" alt="">
+
+The most represented occupations are quite similar for the men and women, before and after metoo. However, what this graph doesn't show are the proportions. Keep in mind that proportionally speaking, men's occupations represent 80% of the dataset and women's only 20%.
+
+
+
+
+
+
 PARLER DES catégorie OCCUPATIONS METTRE DES EXEMPLES de quelles occupation dans quel catégories.
 
 voici occupation de nouveau dataset les plus représentés. Un seul graphe par genre sur le balanced dataset
 What are the main categories of occupations represneted in the news among men and women speakers.
 
-GRAPHE JEANNETTE
 
-Parler de proportion sur les graphes de jeannette.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Targetted matching according to occupations
 
