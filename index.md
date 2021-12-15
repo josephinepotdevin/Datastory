@@ -136,10 +136,10 @@ The most represented occupations are quite similar for the men and women, before
 
 
 
-PARLER DES catégorie OCCUPATIONS METTRE DES EXEMPLES de quelles occupation dans quel catégories.
 
-voici occupation de nouveau dataset les plus représentés. Un seul graphe par genre sur le balanced dataset
-What are the main categories of occupations represneted in the news among men and women speakers.
+
+
+
 
 
 
