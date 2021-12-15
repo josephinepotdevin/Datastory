@@ -172,10 +172,7 @@ The graph above shows the median number of quotes said according to the sex and 
 
 <img src="O-med-occ-occurence-female.png" alt="">
 
-Further analysis is needed to assess this increase, because so far, with some exceptions, the representation of women does seem to have increased in this mateched observational study. This increase is to be further digested with the help of statistical tests.
-
-
-EN FAISANT DES TEST STAT on trouve que les différences avant après pour chaque genre et chaque occupation sont significcatives SAUF pour les fmemes media&journalisme et on trouve que leffet les plus grand c'est pour les historienne femme.
+Further analysis is needed to assess this increase, because so far, with some exceptions, the representation of women does seem to have increased in this mateched observational study. This increase is to be further investigated with the help of statistical tests.
 
 
 
