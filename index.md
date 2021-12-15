@@ -89,7 +89,7 @@ The dataset, as said before, was reduced to have an optimal analysis. Let's take
 
 <br>
 
-{% include imagetext.html image_path="D-perc-quot-genders-period.png" title="Counting the quotes published for each gender" description="> <a name="d"></a>The voice in the newspapers is much more given to men than to women (about 80% against 20%) which is similar to the figures published in 2015. A slight evolution of the rate of women's speech appears between the periods but it remains to be investigated." %}  
+{% include imagetext.html image_path="D-perc-quot-genders-period.png" title="Counting the quotes published for each gender" description=">The voice in the newspapers is much more given to men than to women (about 80% against 20%) which is similar to the figures published in 2015. A slight evolution of the rate of women's speech appears between the periods but it remains to be investigated." %}  
 
 <br>
 
@@ -133,7 +133,7 @@ After this short description of the dataset, let's get down to business!
  
 # <a name="first"></a> **First Question of the Study**: Do women speak more in general after the movement?
 
-Previously, it was <a href="#d">observed</a> that significantly more men were quoted at any period of time. However, the graph below shows when the median number of quotes said per person is counted, women dominate, both before and after #MeToo with an intensification of the male-female difference after the movement. Nevertheless, this increase is a general trend that can be found for both genders and nothing can be concluded about the role played by the movement in favor of this female rule. So while few women are quoted compared to men, those who are will be listened to much more than the average man quoted. What prevails is the idea that a woman must be much more important and listened to in order to appear in the newspapers. Finally, since the number of quotes and the number of occurrences of quotes follow the same trend, we will only focus on the analysis of the number of quotes.
+Previously, it was observed that significantly more men were quoted at any period of time. However, the graph below shows when the median number of quotes said per person is counted, women dominate, both before and after #MeToo with an intensification of the male-female difference after the movement. Nevertheless, this increase is a general trend that can be found for both genders and nothing can be concluded about the role played by the movement in favor of this female rule. So while few women are quoted compared to men, those who are will be listened to much more than the average man quoted. What prevails is the idea that a woman must be much more important and listened to in order to appear in the newspapers. Finally, since the number of quotes and the number of occurrences of quotes follow the same trend, we will only focus on the analysis of the number of quotes.
 
 
 {% include occupation.html %}
