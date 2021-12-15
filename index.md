@@ -52,9 +52,6 @@ layout: default
 
 # <a name="quotebank"></a> **The Quotebank Dataset**: A goldmine of information on the role of women in the media
 
-DIRE QUE AU DATASET ON A RAJOUTÉ LES OCCUPATIONS académic degree
-METTRE UNE QUOTES.
-
 <div style="text-align: justify"> 178 million quotations along with its speakers extracted from hundreds of english articles from 2015 to 2020 together in one open corpus; That's the <a name="qtdata" href="https://dlab.epfl.ch/people/west/pub/Vaucher-Spitz-Catasta-West_WSDM-21.pdf">QuoteBank Dataset</a>. 
  
 For a more thorough analysis, additional information about the speakers from the dataset need to be collected. Thus, thanks to an additional speaker metadata available for ~9M speakers, several attributes were added to the Quotebank dataset to make it more complete: the gender, the date of birth, the academic degree, and finally the speaker's occupations. From here, we have at our disposal a goldmine of information on the subjects, personnalities, ethnicities, genders, careers etcetera represented in the newspaper and displayed to a target audience in the last five years. Off the NUMBER of quotations and NUMBER of known speakers retrieved from the dataset, the analysis was conducted on NUMBER of quotations said by NUMBER of speakers. Indeed, the dataset being too important and full of unknown speaker caracteritsics, data processing has been done retrieving only speakers with known CECI et CELA for a much more relevant and reliable dataset applicable to <a href="#obsstudy">matched observational studies</a>. A typical line from our dataset gives the informations:</div>
@@ -63,7 +60,30 @@ For a more thorough analysis, additional information about the speakers from the
  <br>
  
 <center><span style="color:DarkSlateGrey"><font size="4.5"><i>""At this moment the women of Time's Up and #metoo are looking and saying, `Why don't we have more stories and why is it that if we see these perversions at the end of the line, why aren't we fixing it at the beginning of the line?"</i></font></span></center>
-<center><span style="color:LightBlue"><font size="3.5">   </font></span></center>
+<table>
+  <tr>
+    <td>Speaker</td>
+    <td>Speaker's ID</td>
+    <td>Speaker's gender</td>
+    <td>Speaker's age</td>
+    <td>Speaker's occupations</td>
+    <td>Speaker's academic degree</td>
+    <td>Quotation's number of occurences</td>
+    <td>Newspaper's year release</td>
+    <td>Before or after #MeToo</td>
+  </tr>
+  <tr>
+    <td>Eric Garcetti</td>
+    <td>Q5386557</td>
+    <td>Male</td>
+    <td>47</td>
+    <td>[politician, actor, television actor...]</td>
+    <td>[Bachelor of Arts, Master of International Affairs...]</td>
+    <td>3</td>
+    <td>2018</td>
+    <td>1</td>
+  </tr>
+</table>
  
 <br>
 
