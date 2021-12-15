@@ -38,7 +38,7 @@ layout: default
 
 <div style="text-align: justify"> In addition to the movement's instantaneous but temporary effect that can be seen on these graphs, in the long term its beneficial effect is much more profound. Indeed, by inviting thousands of women to come out of the shadows, to protest against such violence, to make themselves heard and to demand justice, these survivors have given the movement an even more important dimension in the fight for gender equality. Indeed, they have empowered the voices of women all around the world.  </div>
 <br> 
-<div style="text-align: justify"><span style="color:Red"><strong><font size="5.2">It is hoped to find in this analysis, that this empowerment will reverberate through to the newspapers, where women's voices would be better heard, represented, diversified and accepted.</font></strong></span>  </div>
+<div style="text-align: justify"><span style="color:Red"><strong>It is hoped to find in this analysis, that this empowerment will reverberate through to the newspapers, where women's voices would be better heard, represented, diversified and accepted.</strong></span>  </div>
 
 # <a name="quotebank"></a> **The Quotebank Dataset**: A goldmine of information on the role of women in the media
 
@@ -78,52 +78,26 @@ layout: default
  
 <br>
 
-
-
-
-
-
-
-
-
-
-
-
-
 # <a name="description"></a> **Descriptitve analysis**: An overview of the dataset
 
-The whole analysis is built around two pillar questions:
+The dataset, as said before, was reduced to have an optimal analysis. Let's take a look at what it contains keeping in mind the two pillar questions around which this study is conducted:
 
 
-<center><span style="color:Black"><font size="5">""Do women speak more in general after the movement?"</font></span></center>
+<center><span style="color:Red"><font size="5">Do women speak more in general after the movement?</font></span></center>
 
-<center><span style="color:Black"><font size="5">""Has the representation of women's occupations changed after #MeToo"</font></span></center>
-
-<br>
-
-{% include imagetext.html image_path="D-perc-quot-genders-period.png" title="Counting the quotes published for each gender" description="> The voice in the newspapers is much more given to men than to women (about 80% against 20%) which is similar to the figures published in 2015. A slight evolution of the rate of women's speech appears between the periods but it remains to be investigated." %}  
+<center><span style="color:Red"><font size="5">Has the representation of women's occupations changed after #MeToo</font></span></center>
 
 <br>
 
-{% include imagetext.html image_path="D-occ-female.png" title="Which females occupations are most represented" description="> It is observed that the most talked about women are politicians, lawyer, writer, university teacher. The distribution is however highly skewed indicating a huge asymmetry in the representation of occupations in newspapers" %}  
+{% include imagetext.html image_path="D-perc-quot-genders-period.png" title="Counting the quotes published for each gender" description="> <a name="d"></a>The voice in the newspapers is much more given to men than to women (about 80% against 20%) which is similar to the figures published in 2015. A slight evolution of the rate of women's speech appears between the periods but it remains to be investigated." %}  
 
 <br>
 
+{% include imagetext.html image_path="D-occ-female.png" title="Most represented females occupations" description=">It is observed that the most talked about women are politicians, lawyer, writer, university teacher. The distribution is however highly skewed indicating a huge asymmetry in the representation of occupations in newspapers" %}  
 
+<br>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+After this short description of the dataset, let's get down to business!
 
 # <a name="obsstudy"></a> **Matched Observational Study**: The ideal setting to a causal analysis
 
@@ -135,9 +109,17 @@ The whole analysis is built around two pillar questions:
  
  <br>
  
-<div style="text-align: justify">Since the quotebank dataset is a found dataset, and not a created experiment, it is appropriate to call its analysis an observational study. With the reduced dataset containing only speakers with enough known characteristics, the following two analysis are conducted. The first is only a <strong>description of the dataset</strong>. The second is a <strong>matched observational study</strong>. This means that the dataset is reduced and cut in two in a way that for every speaker quoted before #MeToo thus belonging to the before #MeToo dataset (i.e., before October 2017), a very similar speaker (or the same one if this one is quoted after MeToo) belongs to the new dataset of after #MeToo quotes. Similarity is measured by the degree of similitude of the features obtained on the speakers (SET CHARACTER). Any pre #MeToo speaker that is not paired with a post #MeToo counterpart (and vice versa) is thus removed from the dataset. Therefore, the 'before' dataset contains speakers extremely similar the the 'after' dataset i.e. the speakers have the same characteristics. The two new datsets can be approximated to be the same in term of the speakers it contains and thus can be properly compared with no risk of confounders interfering with the causality.</div>
+<div style="text-align: justify">Since the quotebank dataset is a found dataset, and not a created experiment, it is appropriate to call its analysis an observational study. With the reduced dataset containing only speakers with enough known characteristics, the following analysis is conducted: a <strong>matched observational study</strong>. This means that the dataset is reduced and cut in two in a way that for every speaker of a certain gender quoted before #MeToo thus belonging to the before #MeToo dataset (i.e., before October 2017), a very similar speaker (or the same one if this one is quoted after MeToo) of the same gender belongs to the new dataset of after #MeToo quotes. Similarity is measured by the degree of similitude of the features obtained on the speakers (SET CHARACTER). Any pre #MeToo speaker that is not paired with a post #MeToo counterpart (and vice versa) is thus removed from the dataset. Therefore, the 'before' dataset contains speakers extremely similar the the 'after' dataset i.e. the speakers have the same characteristics. The two new datsets can be approximated to be the same in term of the speakers it contains and thus can be properly compared with no risk of confounders interfering with the causality.</div>
 
-PARLER DES GENDERS
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
  
  
  
@@ -151,7 +133,8 @@ PARLER DES GENDERS
  
 # <a name="first"></a> **First Question of the Study**: Do women speak more in general after the movement?
 
-GRAPHE MEDIANE : on avait vu qu'il y avait bcp plus d'hommes qui parlent cependant quand on regarde le nombre de citation par speaker les femmes parlent plus que ce soit avant ou après. MAIS après la différence est intensifiée. CEPENDANT tout le monde parle plus après metoo. MEME tendance entre nombre de quotes et nombre d'occurence donc a partir de maintenant l'analyse ne représentera que le nombre de quotes as they follow the same trend.
+Previously, it was <a href="#d">observed</a> that significantly more men were quoted at any period of time. However, the graph below shows when the median number of quotes said per person is counted, women dominate, both before and after #MeToo with an intensification of the male-female difference after the movement. Nevertheless, this increase is a general trend that can be found for both genders and nothing can be concluded about the role played by the movement in favor of this female rule. So while few women are quoted compared to men, those who are will be listened to much more than the average man quoted. What prevails is the idea that a woman must be much more important and listened to in order to appear in the newspapers. Finally, since the number of quotes and the number of occurrences of quotes follow the same trend, we will only focus on the analysis of the number of quotes.
+
 
 {% include occupation.html %}
 
