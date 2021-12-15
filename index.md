@@ -95,8 +95,11 @@ layout: default
 The whole analysis is built around two pillar questions:
 
 
+<center><span style="color:Black"><font size="4.5">""Do women speak more in general after the movement?"</font></span></center>
 
-{% include imagetext.html image_path="D-perc-quot-genders-period" title="Percentage of quotations by gender and by period" description="> The voice in the newspapers is much more given to men than to women (about 80% against 20%) which is similar to the figures published in 2015. A slight evolution of the rate of women's speech appears between the periods but it remains to be investigated." %}  
+<center><span style="color:Black"><font size="4.5">""Has the representation of women's occupations changed after #MeToo"</font></span></center>
+
+{% include imagetext.html image_path="D-perc-quot-genders-period.png" title="Percentage of quotations by gender and by period" description="> The voice in the newspapers is much more given to men than to women (about 80% against 20%) which is similar to the figures published in 2015. A slight evolution of the rate of women's speech appears between the periods but it remains to be investigated." %}  
 
 
 
