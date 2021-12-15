@@ -29,7 +29,7 @@ layout: default
 
 INTRODUIRE ET PARLER DU GRAPHE
 
-![Image](D-lex.png)
+<img src="D-lex.png" alt="">
 
 <div style="text-align: justify">Moreover, and most importantly, by inviting thousands of women to come out of the shadows, to protest against such violence, to make themselves heard and to demand justice, these survivors have given the movement an even more important dimension in the fight for gender equality. Indeed, they have empowered the voices of women all around the world.  </div>
 <br> 
