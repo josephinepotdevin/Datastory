@@ -204,7 +204,14 @@ After this short description of the dataset, let's get down to business!
 
 
 
-CONCLU STATISTIQUE DE LISA AVEC GRAPHE A LAPPUI
+Among all the significant results for occupation/gender pairs, , those with the highest effect size are observed for female speakers for both number of quotations and number of occurrences.  For the number of quotes, we obtain a significant difference in the median combined with a common language effect size greater than 0.58 for female speakers working in government, social science, law, and for female historians. This is also observed for women from the non-scientist group, as well as for those in the non-teaching and education group. Looking at the number of occurrences, the highest effect sizes are observed for women working in government or in the legal field.
+
+We can conclude that:
+- Again, all speakers speak more after than before the movement, with the exception of women in the media and journalism field.
+- However, although men also speak more after the MeToo movement, it can be said that their increase in speech is less compared to women: indeed, the largest effects are observed for women.
+- Women speak more after the MeToo movement, but no category really stands out more than others, with the exception of women involved in government.
+- Even though women speakers working in Law have a significant difference in median number of quotes and occurrences, and have one of the highest effect sizes in both cases, we cannot conclude anything about them, since we have seen that the 95% confidence intervals of the median for these women is huge.
+- However, women working in government seem to have changed the most after the movement. Indeed, their ratio of number of quotes after to number of quotes before is still lower than that of men, but their total number of occurrences has almost doubled! Moreover, their evolution is much more visible than for all other women not working in government.
 
 <img src="O-government.png" alt="">
 
