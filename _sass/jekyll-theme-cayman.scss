@@ -216,7 +216,6 @@ a {
     color: PaleVioletRed;
   }
   h2,
-  h3,
   h4,
   h5,
   h6 {
@@ -226,6 +225,13 @@ a {
     color: DarkRed;
     //color: RebeccaPurple;
     //color: $section-headings-color;
+  }
+  
+  h3{
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    font-weight: normal;
+    color: DarkMagenta;
   }
 
   p {
