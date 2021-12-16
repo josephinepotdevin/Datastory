@@ -21,10 +21,6 @@ layout: default
 4. [Matched Observational Study](#obsstudy)
 5. [First Question of the Study](#first)
 6. [Second Question of the Study](#second)
-   [Professions representation](#prof)
-   [Targeted matching according to occupations](#targ)
-      [Visualisation of the results](#visu)
-      [Supporting Statistical tests](#stat)
 7. [Conclusion of the Analysis](#conclu)
 
 
