@@ -168,8 +168,6 @@ After this short description of the dataset, let's get down to business!
 
 <div style="text-align: justify">Here again, the dataset is reduced and cut in two in a way that for every speaker of a certain gender and a given category of occupation quoted before #MeToo, a very similar speaker of the same gender and category of occupation belongs to the new dataset of after #MeToo quotes (for more technical see the <a href="https://github.com/epfl-ada/ada-2021-project-adamn">code</a> we did on the matching). It is now possible to analyse if some categories of occupations are more represented after #MeToo.</div>
 
-<br>
-
 ### <a name="visu"></a> **Visualisation of the evolution of the gender's occupation's around the movement**
 
 <div style="text-align: justify">The graph below shows the median number of occurences of quotes and number of quotes said according to the gender and the category. We can first notice that both genders show an increase for the medians after #MeToo. Concerning the number of quotations, we observe a higher median for male than for female for the categories Teaching and Government (only after #MeToo) and Historian (before and after #MeToo). For the number of occurrences, the median is higher for female than for male in all cases except for the Historian category. This could indicate that even if the number of male speakers is higher than the number of female speakers, in most cases a single female speaker will have more quotations occurrences than a man, the quotation of a female seems to be  more relayed.</div>
@@ -206,6 +204,10 @@ After this short description of the dataset, let's get down to business!
 
 
 
+<div style="text-align: justify">Analyzing every combination of gender/occupation, Wilcoxon signed-rank tests have been performed in order to assess the difference in median of the number of quotes and of occurrences before and after the movement for every groups. Significant results for almost all combinations of gender/occupation were obtained, except for female working in medias and journalism. In each case, when looking at a pair of speakers, the one speaking after the movement has the higher probability to be the "bigger speaker".</div>
+
+<br>
+ 
 <div style="text-align: justify">Among all the significant results for occupation/gender pairs, those with the highest effect size are observed for female speakers for both number of quotations and number of occurrences.  For the number of quotes, we obtain a significant difference in the median combined with a common language effect size greater than 0.58 for female speakers working in government, social science, law, and for female historians. This is also observed for women from the non-scientist group, as well as for those in the non-teaching and education group. Looking at the number of occurrences, the highest effect sizes are observed for women working in government or in the legal field.</div>
 
 <br>
