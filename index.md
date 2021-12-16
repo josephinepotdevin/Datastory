@@ -21,6 +21,10 @@ layout: default
 4. [Matched Observational Study](#obsstudy)
 5. [First Question of the Study](#first)
 6. [Second Question of the Study](#second)
+   [Professions representation](#prof)
+   [Targeted matching according to occupations](#targ)
+      [Visualisation of the results](#visu)
+      [Supporting Statistical tests](#stat)
 7. [Conclusion of the Analysis](#conclu)
 
 
@@ -125,7 +129,7 @@ After this short description of the dataset, let's get down to business!
 
 # <a name="first"></a> **Second Question of the Study**: Has the representation of women's occupations changed after #MeToo?
 
-## **Professions representation in the matched observational sutdy dataset**
+## <a name="prof"></a> **Professions representation in the matched observational sutdy dataset**
 
 <div style="text-align: justify">An important feature that was added to the dataset are the occupation categories. Since there were over 900 occupations in the dataset, we created 40 categories to group them together and allow for a simplified assessment of the representation of occupations in the journals. For example, a person with the category "Teaching & Education" could be an academic administrator, a teacher, a Ph.D. student, a faculty member, a guidance counselor etc. With the balanced dataset, a lot of speakers have been removed and the ones remaining have the same characteristics before and after #MeToo in the globality. Thus the following wordcloud shows the male and female's categories of occupations displayed in the balanced datased both before and after #MeToo as they coincide in terms of charatceristics. The size of the font is proportional to the frequency with which the category appears.</div>
 
@@ -164,13 +168,13 @@ After this short description of the dataset, let's get down to business!
 
 
 
-## **Targeted matching according to occupations**
+## <a name="targ"></a> **Targeted matching according to occupations**
 
 <div style="text-align: justify">Here again, the dataset is reduced and cut in two in a way that for every speaker of a certain gender and a given category of occupation quoted before #MeToo, a very similar speaker of the same gender and category of occupation belongs to the new dataset of after #MeToo quotes (for more technical see the <a href="https://github.com/epfl-ada/ada-2021-project-adamn">code</a> we did on the matching). It is now possible to analyse if some categories of occupations are more represented after #MeToo.</div>
 
 <br>
 
-### **Visualisation of the evolution of the gender's occupation's around the movement**
+### <a name="visu"></a> **Visualisation of the evolution of the gender's occupation's around the movement**
 
 <div style="text-align: justify">The graph below shows the median number of occurences of quotes and number of quotes said according to the gender and the category. We can first notice that both genders show an increase for the medians after #MeToo. Concerning the number of quotations, we observe a higher median for male than for female for the categories Teaching and Government (only after #MeToo) and Historian (before and after #MeToo). For the number of occurrences, the median is higher for female than for male in all cases except for the Historian category. This could indicate that even if the number of male speakers is higher than the number of female speakers, in most cases a single female speaker will have more quotations occurrences than a man, the quotation of a female seems to be  more relayed.</div>
 
@@ -200,7 +204,7 @@ After this short description of the dataset, let's get down to business!
 
 
 
-### **Supporting statistical tests for advanced analysis**
+### <a name="stat"></a> **Supporting statistical tests for advanced analysis**
 
 
 
