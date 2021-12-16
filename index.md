@@ -184,7 +184,7 @@ After this short description of the dataset, let's get down to business!
 
 <img src="O-ratio.png" alt="">
 
-<div style="text-align: justify">Thus, after the assesment that the number of quotations and of occurrences have indeed increased after #MeToo for both genders, we can now clearly observe the following evolution for the two genders: a higher ratio After/Before for female than for male except for the following cases:</div>
+<div style="text-align: justify">Thus, after the assessment that the number of quotations and of occurrences have indeed increased after #MeToo for both genders, we can now clearly observe the following evolution for the two genders: a higher ratio After/Before for female than for male except for the following cases:</div>
 
 <br>
 
@@ -217,7 +217,7 @@ CONCLU STATISTIQUE DE LISA AVEC GRAPHE A LAPPUI
 # <a name="conclu"></a> **Conclusion of the Analysis**: Has the #MeToo movement had an impact on women's voices and representation in the newspapers?
 
 
-
+In 2020, the number of women quoted in newspapers does not even reach 25%. We are still far from parity. However, when a woman is a speaker, she tends to have a higher number of quotes as well as a higher number of occurrences than a man: the floor seems to be given to women only if they are really important. Otherwise, the floor is preferentially given to men. Our study shows that the number of quotes, as well as the number of occurrences linked to them, increased after the #MeToo movement for all speakers, men and women alike. All actors gain visibility over time: this may be due simply to the increase in digital news platforms and the ever faster sharing of information, but further research into the causes should be conducted. However, it seems that the relative increase is greater for women in most categories of occupations, especially in terms of occurrences. One significant difference is that women politicians seem to have gained a lot in terms of visibility and credibility. Indeed, compared to women who are not politicians, their evolution is much greater. In particular, their median total number of occurrences per woman has almost doubled after MeToo! This phenomenon may be the result of both the MeToo movement and the 2016 presidential election, in which the official Democratic Party candidate was a woman, Hilary Clinton, for the first time in history. This sequence of events has led to an increase in the credibility of women politicians. However, there is still a long way to go to achieve parity in media coverage, and the effect of MeToo on the representation of women in the newspapers is not as high as expected, but it is still a good start...
 
 
 
