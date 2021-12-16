@@ -115,64 +115,64 @@ After this short description of the dataset, let's get down to business!
 
 # <a name="first"></a> **First Question of the Study**: Do women speak more in general after the movement?
 
-Previously, it was observed that significantly more men were quoted at any period of time. However, the graph below shows when the median number of quotes said per person is counted, women dominate, both before and after #MeToo with an intensification of the male-female difference after the movement. Nevertheless, this increase is a general trend that can be found for both genders and nothing can be concluded about the role played by the movement in favor of this female rule. So while few women are quoted compared to men, those who are will be listened to much more than the average man quoted. What prevails is the idea that a woman must be much more important and listened to in order to appear in the newspapers.
+<div style="text-align: justify">Previously, it was observed that significantly more men were quoted at any period of time. However, the graph below shows when the median number of quotes said per person is counted, women dominate, both before and after #MeToo with an intensification of the male-female difference after the movement. Nevertheless, this increase is a general trend that can be found for both genders and nothing can be concluded about the role played by the movement in favor of this female rule. So while few women are quoted compared to men, those who are will be listened to much more than the average man quoted. What prevails is the idea that a woman must be much more important and listened to in order to appear in the newspapers.</div>
 
 
 {% include Impact_meetoo_median_quotes_occurrences_gender.html %}
 
 
-Moreover, after some statistical test (<a href="https://statistics.laerd.com/spss-tutorials/wilcoxon-signed-rank-test-using-spss-statistics.php">wilcoxon signed rank test</a>) it was found that for any pairing of speakers before and after the movement, the probability of a speaker after #MeToo to have more quotes published than the speaker before #MeToo is of 0.56 for male and 0.57 for female. Thus, it can be concluded that, in general, speakers after the movement speak more than speakers before. However, even if this phenomenon seems to be a little bit more pronounced for women, the same trend is followed by both genders, with small effects. It is possible that this analysis is too general, so we decided to focus only on certain occupations for the rest of the analysis. Thus, we will analyze if the profile of the female speakers has changed i.e. whether the professions represented have differed post-Metoo, and once again we will compare this evolution with male speakers.
+<div style="text-align: justify">Moreover, after some statistical test (<a href="https://statistics.laerd.com/spss-tutorials/wilcoxon-signed-rank-test-using-spss-statistics.php">wilcoxon signed rank test</a>) it was found that for any pairing of speakers before and after the movement, the probability of a speaker after #MeToo to have more quotes published than the speaker before #MeToo is of 0.56 for male and 0.57 for female. Thus, it can be concluded that, in general, speakers after the movement speak more than speakers before. However, even if this phenomenon seems to be a little bit more pronounced for women, the same trend is followed by both genders, with small effects. It is possible that this analysis is too general, so we decided to focus only on certain occupations for the rest of the analysis. Thus, we will analyze if the profile of the female speakers has changed i.e. whether the professions represented have differed post-Metoo, and once again we will compare this evolution with male speakers.</div>
 
 # <a name="first"></a> **Second Question of the Study**: Has the representation of women's occupations changed after #MeToo?
 
-## Professions representation in the matched observational sutdy dataset
+## **Professions representation in the matched observational sutdy dataset**
 
-An important feature that was added to the dataset are the occupation categories. Since there were over 900 occupations in the dataset, we created 40 categories to group them together and allow for a simplified assessment of the representation of occupations in the journals. For example, a person with the category "Teaching & Education" could be an academic administrator, a teacher, a Ph.D. student, a faculty member, a guidance counselor etc. With the balanced dataset, a lot of speakers have been removed and the ones remaining have the same characteristics before and after #MeToo in the globality. Thus the following wordcloud shows the male and female's categories of occupations displayed in the balanced datased both before and after #MeToo as they coincide in terms of charatceristics. The size of the font is proportional to the frequency with which the category appears.
+<div style="text-align: justify">An important feature that was added to the dataset are the occupation categories. Since there were over 900 occupations in the dataset, we created 40 categories to group them together and allow for a simplified assessment of the representation of occupations in the journals. For example, a person with the category "Teaching & Education" could be an academic administrator, a teacher, a Ph.D. student, a faculty member, a guidance counselor etc. With the balanced dataset, a lot of speakers have been removed and the ones remaining have the same characteristics before and after #MeToo in the globality. Thus the following wordcloud shows the male and female's categories of occupations displayed in the balanced datased both before and after #MeToo as they coincide in terms of charatceristics. The size of the font is proportional to the frequency with which the category appears.</div>
 
 <img src="wordcloud.png" alt="">
 
-The most represented categories of occupations are quite similar for the men and women, before and after metoo, with teaching, government staying the most represented ones. Keep in mind that this wordcloud represents the words in term of proportion between them, meaning that the teaching category for men has not the same occurence as the teaching category for women, even if on the wordcloud, the word teaching has the same size for both gender.
+<div style="text-align: justify">The most represented categories of occupations are quite similar for the men and women, before and after metoo, with teaching, government staying the most represented ones. Keep in mind that this wordcloud represents the words in term of proportion between them, meaning that the teaching category for men has not the same occurence as the teaching category for women, even if on the wordcloud, the word teaching has the same size for both gender.</div>
 
 <br>
 
 
- <center><span style="color:Black"><font size="5">For the next analysis, we focus only on the most reprensented categories of occupations for both genders.</font></span></center>
+ <div style="text-align: justify"><strong>For the next analysis, we focus only on the most reprensented categories of occupations for both genders.</strong></div>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## Targeted matching according to occupations
-
-Here again, the dataset is reduced and cut in two in a way that for every speaker of a certain gender and a given category of occupation quoted before #MeToo, a very similar speaker of the same gender and category of occupation belongs to the new dataset of after #MeToo quotes (for more technical see the <a href="https://github.com/epfl-ada/ada-2021-project-adamn">code</a> we did on the matching). It is now possible to analyse if some categories of occupations are more represented after #MeToo.
 
 <br>
 
-### Visualisation of the evolution of the gender's occupation's around the movement
 
-The graph below shows the median number of occurences of quotes and number of quotes said according to the gender and the category. We can first notice that both genders show an increase for the medians after #MeToo. Concerning the number of quotations, we observe a higher median for male than for female for the categories Teaching and Government (only after #MeToo) and Historian (before and after #MeToo). For the number of occurrences, the median is higher for female than for male in all cases except for the Historian category. This could indicate that even if the number of male speakers is higher than the number of female speakers, in most cases a single female speaker will have more quotations occurrences than a man, the quotation of a female seems to be  more relayed.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## **Targeted matching according to occupations**
+
+<div style="text-align: justify">Here again, the dataset is reduced and cut in two in a way that for every speaker of a certain gender and a given category of occupation quoted before #MeToo, a very similar speaker of the same gender and category of occupation belongs to the new dataset of after #MeToo quotes (for more technical see the <a href="https://github.com/epfl-ada/ada-2021-project-adamn">code</a> we did on the matching). It is now possible to analyse if some categories of occupations are more represented after #MeToo.</div>
+
+<br>
+
+### **Visualisation of the evolution of the gender's occupation's around the movement**
+
+<div style="text-align: justify">The graph below shows the median number of occurences of quotes and number of quotes said according to the gender and the category. We can first notice that both genders show an increase for the medians after #MeToo. Concerning the number of quotations, we observe a higher median for male than for female for the categories Teaching and Government (only after #MeToo) and Historian (before and after #MeToo). For the number of occurrences, the median is higher for female than for male in all cases except for the Historian category. This could indicate that even if the number of male speakers is higher than the number of female speakers, in most cases a single female speaker will have more quotations occurrences than a man, the quotation of a female seems to be  more relayed.</div>
 
 <br>
 
@@ -180,22 +180,27 @@ The graph below shows the median number of occurences of quotes and number of qu
 
 <br>
 
-Let's look at the ratio of these medians between after #MeToo and before to better visualize how each category has really evolved over the period of the movement.
+<div style="text-align: justify"><strong>Let's look at the ratio of these medians between after #MeToo and before to better visualize how each category has really evolved over the period of the movement.</strong></div>
 
 <img src="O-ratio.png" alt="">
 
-Thus, after the assesment that the number of quotations and of occurrences have indeed increased after #MeToo for both genders, we can now clearly observe the following evolution for the two genders: a higher ratio After/Before for female than for male except for the following cases: 
+<div style="text-align: justify">Thus, after the assesment that the number of quotations and of occurrences have indeed increased after #MeToo for both genders, we can now clearly observe the following evolution for the two genders: a higher ratio After/Before for female than for male except for the following cases:</div>
+
 <br>
+
 - For the number of quotes: Teaching, Government, Scientist, Media
 - For the number of occurrences: For the number of occurrences:
+
+
 <br>
-It is interesting to observe that the female evolution is more important than the male's one in most of the cases and particularly in the number of occurrences. This number of occurrences underlies the representation and the importance given to a quote. This could let us think that the representation of women in newspapers has indeed increased. 
+
+<div style="text-align: justify">It is interesting to observe that the female evolution is more important than the male's one in most of the cases and particularly in the number of occurrences. This number of occurrences underlies the representation and the importance given to a quote. This could let us think that the representation of women in newspapers has indeed increased. </div>
 
 
 
 
 
-### Supporting statistical tests for advanced analysis
+### **Supporting statistical tests for advanced analysis**
 
 
 
