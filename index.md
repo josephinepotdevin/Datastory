@@ -2,7 +2,6 @@
 layout: default
 ---
 
-CACA
 # <a name="abstr"></a>A few data on women's mis-representation in the media
 
 <div style="text-align: justify"> In <strong>2015</strong>, the Global Media Monitoring Project (GMMP) conducted the largest <a href="https://www.media-diversity.org/additional-files/Who_Makes_the_News_-_Global_Media_Monitoring_Project.pdf">study</a> of women's image, participation and representation in the news media over 20 years and 114 countries. To give an overview on the matter of the significance of women's misrepresentation in the media before 2017, here are some data from this study: </div>
@@ -91,15 +90,14 @@ The dataset, as said before, was reduced to have an optimal analysis. Let's take
 
 <br>
 
-The following graph shows that the voice in the newspapers is much more given to men than to women (about 80% against 20%) which is similar to the figures published in 2015. A slight evolution of the rate of women's speech appears between the periods but it remains to be investigated.
+{% include imagetextright.html figname="Percentage_of_quotations_by_gender_and_by_period.html" title="Counting the quotes published for each gender" description="> The voice in the newspapers is much more given to men than to women (about 80% against 20%) which is similar to the figures published in 2015. A slight evolution of the rate of women's speech appears between the periods but it remains to be investigated." %}
 
-{%include Percentage_of_quotations_by_gender_and_by_period.html %}
 
 {% include imagetextleft.html image_path="D-perc-quot-genders-period.png" title="Counting the quotes published for each gender" description=">The voice in the newspapers is much more given to men than to women (about 80% against 20%) which is similar to the figures published in 2015. A slight evolution of the rate of women's speech appears between the periods but it remains to be investigated." %}  
 
 <br>
 
-{% include imagetextright.html image_path="D-occ-female.png" title="Looking at the occupation of women quoted" description=">It is observed that the most talked about women are politicians, lawyer, writer, university teacher. The distribution is however highly skewed indicating a huge asymmetry in the representation of occupations in newspapers" %}  
+{% include imagetextleft.html image_path="D-occ-female.png" title="Looking at the occupation of women quoted" description=">It is observed that the most talked about women are politicians, lawyer, writer, university teacher. The distribution is however highly skewed indicating a huge asymmetry in the representation of occupations in newspapers" %}  
 
 <br>
 
