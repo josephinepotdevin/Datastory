@@ -189,7 +189,7 @@ After this short description of the dataset, let's get down to business!
 <br>
 
 - For the number of quotes: Teaching, Government, Scientist, Media
-- For the number of occurrences: For the number of occurrences:
+- For the number of occurrences: Historian
 
 
 <br>
