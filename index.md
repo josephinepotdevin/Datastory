@@ -177,6 +177,79 @@ The graph below shows the median number of quotes said according to the gender a
 
 Further analysis is needed to assess this increase, because so far, with some exceptions, the representation of women does seem to have increased in this matched observational study. This increase is to be further investigated with the help of statistical tests.
 
+APRES CES 4 GRAPHES
+
+We observe the median of the number of quotations and of occurrences for male and female before and after the #MeToo movement for each occupation category. We can first notice that both genders show an increase for the medians after #MeToo.
+
+Concerning the number of quotations, we observe a higher median for male than for female for the categories Teaching and Government (only after #MeToo) and Historian (before and after #MeToo). For the number of occurrences, the median is higher for female than for male in all cases except for the Historian category. This could indicate that even if the number of male speakers is higher than the number of female speakers, in most cases a single female speaker will have more quotations occurrences than a man, the quotation of a female seems to be  more relayed.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img src="O-ratio.png" alt="">
+ARPES GRAPHES RATIO
+
+After the assesment that the number of quotations and of occurrences have indeed increased after #MeToo for both genders, we aimed to compare the evolution of the two genders. We observe a higher ratio After/Before for female than for male except for the following cases: 
+
+- For the number of quotes: 
+Teaching, Government, Scientist, Media
+        
+- For the number of occurrences: 
+Historian
+
+It is interesting to observe that the female evolution is more important than the male's one in most of the cases and particularly in the number of occurrences. This number of occurrences underlies the representation and the importance given to a quote. This could let us think that the representation of women in newspapers has indeed increased.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CONCLU STATISTIQUE DE LISA AVEC GRAPHE A LAPPUI
+
+<img src="O-government.png" alt="">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
