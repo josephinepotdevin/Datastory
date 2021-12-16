@@ -42,12 +42,12 @@ layout: default
 
 # <a name="quotebank"></a> **The Quotebank Dataset**: A goldmine of information on the role of women in the media
 
-<div style="text-align: justify"> 178 million quotations along with its speakers extracted from hundreds of english articles from 2015 to 2020 together in one open corpus; That's the <a name="qtdata" href="https://dlab.epfl.ch/people/west/pub/Vaucher-Spitz-Catasta-West_WSDM-21.pdf">QuoteBank Dataset</a>. For a more thorough analysis, additional information about the speakers from the dataset need to be collected. Thus, thanks to an additional speaker metadata available for ~9M speakers (<a href="https://www.wikidata.org/wiki/Wikidata:Main_Page">Wikidata</a>), several attributes were added to the Quotebank dataset to make it more complete: the gender, the date of birth, the academic degree, and finally the speaker's occupations. From here, we have at our disposal a goldmine of information on the subjects, personnalities, genders, careers etcetera represented in the newspaper and displayed to a target audience in the last five years. Nevertheless, the dataset being too important and full of unknown speaker caracteritsics, data processing has been done retrieving only speakers with male of female genders, know ages academic degrees and occupations for a much more relevant and reliable dataset applicable to <a href="#obsstudy">matched observational studies</a>. A typical line from our edited dataset gives the following informations:</div>
+<div style="text-align: justify"> 178 million quotations along with its speakers extracted from hundreds of english articles from 2015 to 2020 together in one open corpus; that's the <a name="qtdata" href="https://dlab.epfl.ch/people/west/pub/Vaucher-Spitz-Catasta-West_WSDM-21.pdf">QuoteBank Dataset</a>. For a more thorough analysis, additional information about the speakers from the dataset need to be collected. Thus, thanks to an additional speaker metadata available for ~9M speakers (<a href="https://www.wikidata.org/wiki/Wikidata:Main_Page">Wikidata</a>), several attributes were added to the Quotebank dataset to make it more complete: the gender, the date of birth, the academic degree, and finally the speaker's occupations. From here, we have at our disposal a goldmine of information on the subjects, personnalities, genders, careers etcetera represented in the newspaper and displayed to a target audience in the last five years. Nevertheless, the dataset being too important and full of unknown speaker caracteritsics, data processing has been done retrieving only speakers with male or female genders, known ages, academic degrees and occupations for a much more relevant and reliable dataset applicable to <a href="#obsstudy">matched observational studies</a>. A typical line from our edited dataset gives the following informations:</div>
  
  
  <br>
  
-<center><span style="color:DarkCyan"><font size="4.5"><i>""At this moment the women of Time's Up and #metoo are looking and saying, `Why don't we have more stories and why is it that if we see these perversions at the end of the line, why aren't we fixing it at the beginning of the line?"</i></font></span></center>
+<center><span style="color:DarkCyan"><font size="4.5"><i>"At this moment the women of Time's Up and #metoo are looking and saying, why don't we have more stories and why is it that if we see these perversions at the end of the line, why aren't we fixing it at the beginning of the line?"</i></font></span></center>
 <br>
 <table>
   <tr>
@@ -85,7 +85,7 @@ The dataset, as said before, was reduced to have an optimal analysis. Let's take
 
 <center><span style="color:DarkSlateBlue"><font size="5">Do women speak more in general after the movement?</font></span></center>
 
-<center><span style="color:DarkSlateBlue"><font size="5">Has the representation of women's occupations changed after #MeToo</font></span></center>
+<center><span style="color:DarkSlateBlue"><font size="5">Has the representation of women's occupations changed after #MeToo?</font></span></center>
 
 <br>
 
@@ -105,11 +105,11 @@ After this short description of the dataset, let's get down to business!
  
  <br>
  
- <center><span style="color:DarkSlateBlue"><font size="5.2"><i>Has the MeToo movement affect the representation of women in the newspapers?</i></font></span></center>
+ <center><span style="color:DarkSlateBlue"><font size="5.2"><i>Has the MeToo movement affected the representation of women in the newspapers?</i></font></span></center>
  
  <br>
  
-<div style="text-align: justify">Since the quotebank dataset is a found dataset, and not a created experiment, it is appropriate to call its analysis an observational study. With the reduced dataset containing only speakers with enough known characteristics, the following analysis is conducted: a <strong>matched observational study</strong>. This means that the dataset is reduced and cut in two in a way that for every speaker of a certain gender quoted before #MeToo thus belonging to the before #MeToo dataset (i.e., before October 2017), a very similar speaker (or the same one if this one is quoted after MeToo) of the same gender belongs to the new dataset of after #MeToo quotes. Similarity is measured by the degree of similitude of the features obtained on the speakers (SET CHARACTER). Any pre #MeToo speaker that is not paired with a post #MeToo counterpart (and vice versa) is thus removed from the dataset. Therefore, the 'before' dataset contains speakers extremely similar the the 'after' dataset i.e. the speakers have the same characteristics. The two new datsets can be approximated to be the same in term of the speakers it contains and thus can be properly compared with no risk of confounders interfering with the causality.</div>
+<div style="text-align: justify">Since the quotebank dataset is a found dataset, and not a created experiment, it is appropriate to call its analysis an observational study. With the reduced dataset containing only speakers with enough known characteristics, the following analysis is conducted: a <strong>matched observational study</strong>. This means that the dataset is reduced and cut in two in a way that for every speaker of a certain gender quoted before #MeToo thus belonging to the before #MeToo dataset (i.e., before October 2017), a very similar speaker (or the same one if this one is quoted after MeToo) of the same gender belongs to the new dataset of after #MeToo quotes. Similarity is measured by the degree of similitude of the features obtained on the speakers. Any pre #MeToo speaker that is not paired with a post #MeToo counterpart (and vice versa) is thus removed from the dataset. Therefore, the 'before' dataset contains speakers extremely similar the the 'after' dataset i.e. the speakers have the same characteristics. The two new datasets can be approximated to be the same in term of the speakers each contains and thus can be properly compared with no risk of confounders interfering with the causality.</div>
 
 # <a name="first"></a> **First Question of the Study**: Do women speak more in general after the movement?
 
@@ -129,7 +129,7 @@ An important feature that was added to the dataset are the occupation categories
 
 <img src="wordcloud.png" alt="">
 
-The most represented occupations are quite similar for the men and women, before and after metoo. However, what this graph doesn't show are the proportions. Keep in mind that proportionally speaking, men's occupations represent 80% of the dataset and women's only 20%.
+The most represented occupations are quite similar for the men and women, before and after metoo. However, what this graph doesn't show are the proportions. Keep in mind that proportionally speaking, men's occupations represent 80% of the dataset and women's only 20%. A PARTIR DE MAINTENANT ON SE FOCUS QUE SUR 8 OCCUPATIONS LSE PLUS REPRÉSENTE REGARDER JEANNETTE ET PROPORTION MALE FEMALE.
 
 
 
@@ -157,13 +157,13 @@ The most represented occupations are quite similar for the men and women, before
 
 
 
-## Targetted matching according to occupations
+## Targeted matching according to occupations
 
-Here again, the dataset is reduced and cut in two in a way that for every speaker of a certain sex and a given category of occupation quoted before #MeToo, a very similar speaker of the same sex and category of occupation belongs to the new dataset of after #MeToo quotes (for more technical see the <a href="https://github.com/epfl-ada/ada-2021-project-adamn">code</a> we did on the matching). It is now possible to analyse if some categories of occupations are more represented after #MeToo.
+Here again, the dataset is reduced and cut in two in a way that for every speaker of a certain gender and a given category of occupation quoted before #MeToo, a very similar speaker of the same gender and category of occupation belongs to the new dataset of after #MeToo quotes (for more technical see the <a href="https://github.com/epfl-ada/ada-2021-project-adamn">code</a> we did on the matching). It is now possible to analyse if some categories of occupations are more represented after #MeToo.
 
 <br>
 
-The graph below shows the median number of quotes said according to the sex and the category. We first observe a higher median for female than for male in most cases except for the Historian category. This could indicate that even if the number of male speakers is higher than the number of female speakers, in most cases a single female speaker will have more quotations occurrences than a man. Both male and female speakers show an increase in the median of the number of occurrences after #MeToo. However, this increase is larger for female for the following categories: Government, Scientist, Law, Social Sciences, Literature and Media. We could say that for the previous categories, even if the representation of both genders have increased after #MeToo, this increase is higher for females.
+The graph below shows the median number of quotes said according to the gender and the category. We first observe a higher median for female than for male in most cases except for the Historian category. This could indicate that even if the number of male speakers is higher than the number of female speakers, in most cases a single female speaker will have more quotations occurrences than a man. Both male and female speakers show an increase in the median of the number of occurrences after #MeToo. However, this increase is larger for female for the following categories: Government, Scientist, Law, Social Sciences, Literature and Media. We could say that for the previous categories, even if the representation of both genders have increased after #MeToo, this increase is higher for females.
 
 <br>
 
