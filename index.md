@@ -95,7 +95,7 @@ The following graph shows that the voice in the newspapers is much more given to
 
 {%include Percentage_of_quotations_by_gender_and_by_period.html %}
 
-{% include imagetextright.html image_path="D-perc-quot-genders-period.png" title="Counting the quotes published for each gender" description=">The voice in the newspapers is much more given to men than to women (about 80% against 20%) which is similar to the figures published in 2015. A slight evolution of the rate of women's speech appears between the periods but it remains to be investigated." %}  
+{% include imagetextleft.html image_path="D-perc-quot-genders-period.png" title="Counting the quotes published for each gender" description=">The voice in the newspapers is much more given to men than to women (about 80% against 20%) which is similar to the figures published in 2015. A slight evolution of the rate of women's speech appears between the periods but it remains to be investigated." %}  
 
 <br>
 
