@@ -182,6 +182,8 @@ After this short description of the dataset, let's get down to business!
 
 <div style="text-align: justify"><strong>Let's look at the ratio of these medians between after #MeToo and before to better visualize how each category has really evolved over the period of the movement.</strong></div>
 
+<br>
+
 <img src="O-ratio.png" alt="">
 
 <div style="text-align: justify">Thus, after the assessment that the number of quotations and of occurrences have indeed increased after #MeToo for both genders, we can now clearly observe the following evolution for the two genders: a higher ratio After/Before for female than for male except for the following cases:</div>
