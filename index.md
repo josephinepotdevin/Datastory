@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-CACA
+
 # <a name="abstr"></a>A few data on women's mis-representation in the media
 
 <div style="text-align: justify"> In <strong>2015</strong>, the Global Media Monitoring Project (GMMP) conducted the largest <a href="https://www.media-diversity.org/additional-files/Who_Makes_the_News_-_Global_Media_Monitoring_Project.pdf">study</a> of women's image, participation and representation in the news media over 20 years and 114 countries. To give an overview on the matter of the significance of women's misrepresentation in the media before 2017, here are some data from this study: </div>
@@ -21,6 +21,7 @@ CACA
 4. [Matched Observational Study](#obsstudy)
 5. [First Question of the Study](#first)
 6. [Second Question of the Study](#second)
+7. [Conclusion of the Analysis](#conclu)
 
 
 # <a name="context"></a> **Context**: The #MeToo movement 
@@ -169,60 +170,32 @@ Here again, the dataset is reduced and cut in two in a way that for every speake
 
 <br>
 
+### Visualisation of the evolution of the gender's occupation's around the movement
+
 The graph below shows the median number of occurences of quotes and number of quotes said according to the gender and the category. We can first notice that both genders show an increase for the medians after #MeToo. Concerning the number of quotations, we observe a higher median for male than for female for the categories Teaching and Government (only after #MeToo) and Historian (before and after #MeToo). For the number of occurrences, the median is higher for female than for male in all cases except for the Historian category. This could indicate that even if the number of male speakers is higher than the number of female speakers, in most cases a single female speaker will have more quotations occurrences than a man, the quotation of a female seems to be  more relayed.
 
 <br>
 
 <img src="O-med-occ-occurence-female.png" alt="">
 
-Further analysis is needed to assess this increase, because so far, with some exceptions, the representation of women does seem to have increased in this matched observational study. This increase is to be further investigated with the help of statistical tests.
+<br>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Let's look at the ratio of these medians between after #MeToo and before to better visualize how each category has really evolved over the period of the movement.
 
 <img src="O-ratio.png" alt="">
-ARPES GRAPHES RATIO
 
-After the assesment that the number of quotations and of occurrences have indeed increased after #MeToo for both genders, we aimed to compare the evolution of the two genders. We observe a higher ratio After/Before for female than for male except for the following cases: 
-
-- For the number of quotes: 
-Teaching, Government, Scientist, Media
-        
-- For the number of occurrences: 
-Historian
-
-It is interesting to observe that the female evolution is more important than the male's one in most of the cases and particularly in the number of occurrences. This number of occurrences underlies the representation and the importance given to a quote. This could let us think that the representation of women in newspapers has indeed increased.
+Thus, after the assesment that the number of quotations and of occurrences have indeed increased after #MeToo for both genders, we can now clearly observe the following evolution for the two genders: a higher ratio After/Before for female than for male except for the following cases: 
+<br>
+- For the number of quotes: Teaching, Government, Scientist, Media
+- For the number of occurrences: For the number of occurrences:
+<br>
+It is interesting to observe that the female evolution is more important than the male's one in most of the cases and particularly in the number of occurrences. This number of occurrences underlies the representation and the importance given to a quote. This could let us think that the representation of women in newspapers has indeed increased. 
 
 
 
 
 
-
-bb
-
-
-
-
-
-
-
+### Supporting statistical tests for advanced analysis
 
 
 
@@ -236,19 +209,7 @@ CONCLU STATISTIQUE DE LISA AVEC GRAPHE A LAPPUI
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-CONCLUSION GENERALE
+# <a name="conclu"></a> **Conclusion of the Analysis**: Has the #MeToo movement had an impact on women's voices and representation in the newspapers?
 
 
 
