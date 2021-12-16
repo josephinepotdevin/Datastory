@@ -126,11 +126,16 @@ Moreover, after some statistical test (<a href="https://statistics.laerd.com/sps
 
 ## Professions representation in the matched observational sutdy dataset
 
-An important feature that was added to the dataset are the occupation categories. Since there were over 900 occupations in the dataset, we created 40 categories to group them together and allow for a simplified assessment of the representation of occupations in the journals. For example, a person with the category "Teaching & Education" could be an academic administrator, a teacher, a Ph.D. student, a faculty member, a guidance counselor etc. With the balanced dataset, a lot of speakers have been removed and the ones remaining have the same characteristics before and after #MeToo in the globality. Thus the following graph shows the male and female's categories of occupations displayed in the balanced datased both before and after #MeToo as they coincide in terms of charatceristics. The size of the font is proportional to the frequency with which the category appears.
+An important feature that was added to the dataset are the occupation categories. Since there were over 900 occupations in the dataset, we created 40 categories to group them together and allow for a simplified assessment of the representation of occupations in the journals. For example, a person with the category "Teaching & Education" could be an academic administrator, a teacher, a Ph.D. student, a faculty member, a guidance counselor etc. With the balanced dataset, a lot of speakers have been removed and the ones remaining have the same characteristics before and after #MeToo in the globality. Thus the following wordcloud shows the male and female's categories of occupations displayed in the balanced datased both before and after #MeToo as they coincide in terms of charatceristics. The size of the font is proportional to the frequency with which the category appears.
 
 <img src="wordcloud.png" alt="">
 
-The most represented occupations are quite similar for the men and women, before and after metoo. However, what this graph doesn't show are the proportions. Keep in mind that proportionally speaking, men's occupations represent 80% of the dataset and women's only 20%. A PARTIR DE MAINTENANT ON SE FOCUS QUE SUR 8 OCCUPATIONS LSE PLUS REPRÉSENTE REGARDER JEANNETTE ET PROPORTION MALE FEMALE.
+The most represented categories of occupations are quite similar for the men and women, before and after metoo, with teaching, government staying the most represented ones. Keep in mind that this wordcloud represents the words in term of proportion between them, meaning that the teaching category for men has not the same occurence as the teaching category for women, even if on the wordcloud, the word teaching has the same size for both gender.
+
+<br>
+
+
+ <center><span style="color:Black"><font size="5">For the next analysis, we focus only on the most reprensented categories of occupations for both genders.</font></span></center>
 
 
 
