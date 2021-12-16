@@ -169,7 +169,7 @@ The graph below shows the median number of quotes said according to the gender a
 
 <img src="O-med-occ-occurence-female.png" alt="">
 
-Further analysis is needed to assess this increase, because so far, with some exceptions, the representation of women does seem to have increased in this mateched observational study. This increase is to be further investigated with the help of statistical tests.
+Further analysis is needed to assess this increase, because so far, with some exceptions, the representation of women does seem to have increased in this matched observational study. This increase is to be further investigated with the help of statistical tests.
 
 
 
